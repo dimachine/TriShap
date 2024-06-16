@@ -1,0 +1,2922 @@
+251,Fargo (1996),4
+25,Return of the Jedi (1983),5
+32,Liar Liar (1997),3
+44,Liar Liar (1997),4
+26,Contact (1997),3
+181,Mirror Has Two Faces, The (1996),4
+194,Return of the Jedi (1983),3
+66,Contact (1997),4
+207,Contact (1997),4
+297,Home for the Holidays (1995),3
+144,Little Women (1994),4
+222,Bed of Roses (1996),2
+290,Star Wars (1977),5
+264,Liar Liar (1997),3
+231,Return of the Jedi (1983),4
+72,Little Women (1994),3
+298,Return of the Jedi (1983),4
+10,Fargo (1996),5
+245,Return of the Jedi (1983),4
+276,Return of the Jedi (1983),5
+126,Liar Liar (1997),3
+90,Contact (1997),3
+108,Fargo (1996),4
+276,Liar Liar (1997),4
+79,Star Wars (1977),4
+6,Contact (1997),2
+150,Return of the Jedi (1983),5
+198,Contact (1997),4
+13,Return of the Jedi (1983),5
+2,Star Wars (1977),5
+8,Star Wars (1977),5
+63,Fargo (1996),5
+274,Star Wars (1977),5
+172,Mirror Has Two Faces, The (1996),4
+66,Return of the Jedi (1983),5
+44,Contact (1997),4
+23,Contact (1997),5
+312,Fargo (1996),4
+117,Return of the Jedi (1983),5
+141,Contact (1997),5
+227,Star Wars (1977),4
+256,Mirror Has Two Faces, The (1996),3
+22,Contact (1997),5
+65,Fargo (1996),3
+109,Contact (1997),5
+287,Liar Liar (1997),5
+99,Star Wars (1977),5
+311,Home for the Holidays (1995),4
+79,Fargo (1996),5
+305,Star Wars (1977),5
+25,Contact (1997),5
+207,Home for the Holidays (1995),3
+176,Contact (1997),4
+58,Fargo (1996),5
+92,To Gillian on Her 37th Birthday (1996),3
+199,Contact (1997),4
+213,Liar Liar (1997),3
+203,Return of the Jedi (1983),5
+198,Fargo (1996),1
+127,Liar Liar (1997),4
+256,Home for the Holidays (1995),5
+62,Contact (1997),5
+108,Star Wars (1977),4
+184,Return of the Jedi (1983),4
+271,Mirror Has Two Faces, The (1996),3
+99,Return of the Jedi (1983),5
+296,Contact (1997),5
+63,Star Wars (1977),4
+286,Contact (1997),4
+184,Fargo (1996),5
+142,Return of the Jedi (1983),5
+275,Contact (1997),3
+162,Return of the Jedi (1983),4
+6,Liar Liar (1997),2
+131,Fargo (1996),5
+197,Liar Liar (1997),4
+234,Star Wars (1977),4
+97,Star Wars (1977),5
+117,Star Wars (1977),5
+70,Star Wars (1977),4
+320,Liar Liar (1997),4
+150,Fargo (1996),2
+318,Star Wars (1977),2
+307,Fargo (1996),3
+109,Fargo (1996),4
+145,Star Wars (1977),5
+124,Star Wars (1977),3
+253,Star Wars (1977),4
+147,Contact (1997),4
+176,Liar Liar (1997),2
+307,Contact (1997),5
+311,Return of the Jedi (1983),4
+241,Liar Liar (1997),3
+165,Contact (1997),5
+195,Return of the Jedi (1983),5
+119,Home for the Holidays (1995),5
+244,Mirror Has Two Faces, The (1996),2
+261,Liar Liar (1997),4
+174,Little Women (1994),5
+237,Fargo (1996),5
+113,Liar Liar (1997),4
+271,Star Wars (1977),5
+60,Little Women (1994),4
+179,Contact (1997),5
+262,Contact (1997),4
+69,Contact (1997),4
+254,Star Wars (1977),5
+329,Fargo (1996),4
+86,Contact (1997),5
+133,Contact (1997),5
+145,Bed of Roses (1996),4
+244,Fargo (1996),4
+326,Star Wars (1977),5
+257,Contact (1997),3
+284,Contact (1997),4
+152,Home for the Holidays (1995),5
+213,Star Wars (1977),5
+195,Fargo (1996),5
+30,Return of the Jedi (1983),4
+223,Contact (1997),1
+292,Fargo (1996),5
+184,Home for the Holidays (1995),3
+224,Contact (1997),3
+286,Fargo (1996),3
+80,Star Wars (1977),3
+256,Bed of Roses (1996),5
+203,Liar Liar (1997),2
+104,Fargo (1996),4
+322,Star Wars (1977),5
+28,Star Wars (1977),4
+211,Return of the Jedi (1983),1
+267,Star Wars (1977),5
+235,Fargo (1996),4
+126,Contact (1997),4
+3,Liar Liar (1997),2
+62,Home for the Holidays (1995),4
+209,Contact (1997),2
+130,Star Wars (1977),5
+246,Liar Liar (1997),2
+22,Liar Liar (1997),1
+255,Contact (1997),4
+57,Liar Liar (1997),4
+334,Fargo (1996),5
+262,Star Wars (1977),2
+197,Return of the Jedi (1983),5
+244,Bed of Roses (1996),3
+280,Fargo (1996),3
+310,Contact (1997),3
+159,Contact (1997),4
+230,Star Wars (1977),5
+138,Fargo (1996),5
+135,Liar Liar (1997),4
+15,Bed of Roses (1996),1
+40,Contact (1997),3
+236,Little Women (1994),4
+250,Liar Liar (1997),1
+303,Home for the Holidays (1995),2
+64,Fargo (1996),4
+297,Little Women (1994),4
+221,Fargo (1996),5
+344,Bed of Roses (1996),3
+39,Contact (1997),4
+316,Star Wars (1977),1
+16,Liar Liar (1997),4
+26,Fargo (1996),5
+180,Home for the Holidays (1995),1
+248,Return of the Jedi (1983),4
+76,Fargo (1996),5
+327,Star Wars (1977),3
+14,Fargo (1996),5
+158,Fargo (1996),5
+18,Little Women (1994),5
+299,Star Wars (1977),4
+76,Contact (1997),3
+303,Return of the Jedi (1983),5
+155,Liar Liar (1997),3
+251,Contact (1997),3
+10,Liar Liar (1997),3
+344,Return of the Jedi (1983),3
+53,Fargo (1996),5
+207,Liar Liar (1997),3
+144,Star Wars (1977),5
+62,Liar Liar (1997),1
+59,Contact (1997),3
+8,Liar Liar (1997),3
+83,Liar Liar (1997),3
+28,Fargo (1996),5
+151,Fargo (1996),3
+341,Liar Liar (1997),3
+59,Fargo (1996),5
+96,Fargo (1996),5
+152,Mirror Has Two Faces, The (1996),5
+238,Return of the Jedi (1983),3
+204,Contact (1997),2
+311,Contact (1997),4
+248,Fargo (1996),4
+162,Star Wars (1977),5
+77,Return of the Jedi (1983),3
+246,Fargo (1996),4
+109,Bed of Roses (1996),3
+253,Liar Liar (1997),4
+48,Star Wars (1977),4
+1,Contact (1997),5
+113,Fargo (1996),4
+282,Contact (1997),5
+141,Star Wars (1977),4
+32,Fargo (1996),3
+251,Star Wars (1977),5
+99,Contact (1997),5
+62,Fargo (1996),4
+234,Liar Liar (1997),3
+72,Return of the Jedi (1983),1
+169,Return of the Jedi (1983),5
+49,Contact (1997),2
+306,Fargo (1996),4
+331,Fargo (1996),4
+332,Contact (1997),5
+344,Home for the Holidays (1995),3
+297,Star Wars (1977),5
+323,Fargo (1996),4
+53,Return of the Jedi (1983),4
+325,Return of the Jedi (1983),4
+117,Contact (1997),4
+18,Return of the Jedi (1983),3
+64,Return of the Jedi (1983),4
+173,Liar Liar (1997),5
+33,Contact (1997),4
+137,Star Wars (1977),5
+116,Liar Liar (1997),2
+184,Little Women (1994),5
+154,Star Wars (1977),5
+257,Star Wars (1977),5
+107,Contact (1997),4
+269,Star Wars (1977),3
+334,Home for the Holidays (1995),3
+105,Contact (1997),5
+123,Star Wars (1977),3
+200,Liar Liar (1997),4
+108,Return of the Jedi (1983),3
+14,Return of the Jedi (1983),5
+195,Contact (1997),4
+365,Contact (1997),4
+94,Star Wars (1977),5
+330,Star Wars (1977),5
+206,Contact (1997),4
+368,Star Wars (1977),4
+205,Contact (1997),3
+329,Contact (1997),3
+189,Fargo (1996),4
+184,Contact (1997),3
+330,Return of the Jedi (1983),5
+134,Contact (1997),4
+354,Home for the Holidays (1995),3
+190,Liar Liar (1997),3
+77,Star Wars (1977),4
+321,Star Wars (1977),4
+166,Contact (1997),4
+328,Fargo (1996),5
+381,Star Wars (1977),5
+332,Return of the Jedi (1983),5
+214,Liar Liar (1997),3
+256,Liar Liar (1997),3
+176,Fargo (1996),5
+265,Return of the Jedi (1983),2
+217,Contact (1997),1
+92,Return of the Jedi (1983),4
+56,Return of the Jedi (1983),5
+74,Fargo (1996),4
+128,Liar Liar (1997),4
+168,Contact (1997),4
+43,Star Wars (1977),4
+249,Fargo (1996),5
+313,Fargo (1996),5
+94,Contact (1997),5
+357,Liar Liar (1997),4
+320,Bed of Roses (1996),3
+232,Return of the Jedi (1983),4
+286,Star Wars (1977),4
+362,Contact (1997),4
+247,Star Wars (1977),5
+89,Home for the Holidays (1995),3
+68,Star Wars (1977),5
+150,Star Wars (1977),5
+296,To Gillian on Her 37th Birthday (1996),2
+263,Liar Liar (1997),2
+90,Fargo (1996),5
+299,Fargo (1996),3
+99,Fargo (1996),5
+271,Contact (1997),3
+214,Star Wars (1977),3
+256,Return of the Jedi (1983),4
+181,To Gillian on Her 37th Birthday (1996),3
+73,Fargo (1996),4
+224,To Gillian on Her 37th Birthday (1996),4
+91,Return of the Jedi (1983),5
+327,Liar Liar (1997),3
+320,Home for the Holidays (1995),1
+244,Contact (1997),5
+41,Fargo (1996),4
+210,Star Wars (1977),5
+5,Fargo (1996),5
+257,Fargo (1996),5
+271,Liar Liar (1997),2
+11,Fargo (1996),4
+152,Little Women (1994),5
+28,Liar Liar (1997),3
+357,Contact (1997),4
+158,Star Wars (1977),4
+373,Bed of Roses (1996),5
+348,Liar Liar (1997),4
+199,Liar Liar (1997),1
+303,Liar Liar (1997),4
+193,Contact (1997),3
+279,Star Wars (1977),3
+13,Fargo (1996),5
+270,Home for the Holidays (1995),4
+80,Little Women (1994),3
+305,Fargo (1996),3
+340,Return of the Jedi (1983),4
+75,Fargo (1996),5
+182,Fargo (1996),3
+244,Liar Liar (1997),4
+189,Liar Liar (1997),5
+165,Return of the Jedi (1983),5
+7,Return of the Jedi (1983),3
+94,Fargo (1996),5
+288,Star Wars (1977),4
+54,Contact (1997),4
+293,Return of the Jedi (1983),3
+280,Star Wars (1977),3
+25,Star Wars (1977),5
+346,Liar Liar (1997),3
+398,Return of the Jedi (1983),4
+45,Fargo (1996),5
+315,Fargo (1996),5
+238,Mirror Has Two Faces, The (1996),3
+24,Liar Liar (1997),3
+144,Return of the Jedi (1983),4
+280,Return of the Jedi (1983),3
+231,To Gillian on Her 37th Birthday (1996),4
+140,Contact (1997),3
+256,To Gillian on Her 37th Birthday (1996),4
+159,Mirror Has Two Faces, The (1996),5
+339,Return of the Jedi (1983),4
+69,Fargo (1996),5
+244,Return of the Jedi (1983),4
+92,Bed of Roses (1996),3
+24,Contact (1997),4
+206,Liar Liar (1997),2
+72,Fargo (1996),5
+46,Return of the Jedi (1983),4
+164,Return of the Jedi (1983),5
+4,Liar Liar (1997),5
+13,Home for the Holidays (1995),4
+197,Contact (1997),4
+95,Little Women (1994),2
+352,Return of the Jedi (1983),4
+102,Star Wars (1977),4
+392,Contact (1997),2
+229,Contact (1997),2
+367,Fargo (1996),5
+209,Star Wars (1977),5
+177,Fargo (1996),5
+393,Bed of Roses (1996),4
+30,Liar Liar (1997),4
+59,To Gillian on Her 37th Birthday (1996),4
+103,Star Wars (1977),5
+121,Liar Liar (1997),4
+248,Liar Liar (1997),3
+109,Liar Liar (1997),4
+308,Return of the Jedi (1983),4
+215,Contact (1997),3
+299,Return of the Jedi (1983),3
+268,Contact (1997),2
+342,Fargo (1996),5
+389,Fargo (1996),5
+56,Liar Liar (1997),4
+274,Liar Liar (1997),3
+282,Liar Liar (1997),4
+82,Mirror Has Two Faces, The (1996),2
+354,Little Women (1994),3
+345,Fargo (1996),5
+377,Fargo (1996),3
+83,Return of the Jedi (1983),4
+398,Star Wars (1977),5
+379,Star Wars (1977),4
+409,Star Wars (1977),5
+178,Return of the Jedi (1983),5
+57,Fargo (1996),5
+386,Star Wars (1977),4
+407,Star Wars (1977),4
+373,Little Women (1994),4
+101,Star Wars (1977),4
+369,Return of the Jedi (1983),5
+393,Liar Liar (1997),4
+265,Contact (1997),4
+136,Fargo (1996),5
+201,Star Wars (1977),4
+379,Liar Liar (1997),3
+13,Liar Liar (1997),2
+53,Contact (1997),4
+203,Star Wars (1977),5
+277,Return of the Jedi (1983),3
+268,Little Women (1994),3
+338,Liar Liar (1997),1
+305,Contact (1997),4
+77,Fargo (1996),3
+186,Fargo (1996),4
+268,Return of the Jedi (1983),4
+390,Fargo (1996),5
+92,Mirror Has Two Faces, The (1996),1
+320,Fargo (1996),4
+302,Contact (1997),3
+283,Star Wars (1977),5
+230,Return of the Jedi (1983),4
+151,Little Women (1994),4
+327,Contact (1997),1
+129,Contact (1997),2
+342,Mirror Has Two Faces, The (1996),1
+224,Liar Liar (1997),4
+168,Fargo (1996),4
+145,Fargo (1996),5
+405,Little Women (1994),2
+21,Fargo (1996),5
+27,Fargo (1996),5
+49,Liar Liar (1997),1
+328,Liar Liar (1997),3
+239,Fargo (1996),3
+223,Liar Liar (1997),4
+24,Fargo (1996),5
+62,Return of the Jedi (1983),4
+329,Return of the Jedi (1983),4
+378,Little Women (1994),4
+314,Mirror Has Two Faces, The (1996),4
+43,Return of the Jedi (1983),4
+128,Star Wars (1977),4
+390,Return of the Jedi (1983),4
+102,Return of the Jedi (1983),2
+200,Star Wars (1977),5
+58,Star Wars (1977),4
+254,Little Women (1994),3
+54,Star Wars (1977),5
+299,Liar Liar (1997),2
+347,Little Women (1994),1
+311,Star Wars (1977),5
+290,Little Women (1994),3
+178,Liar Liar (1997),2
+347,Liar Liar (1997),1
+361,Fargo (1996),5
+40,Liar Liar (1997),4
+378,Contact (1997),4
+416,Mirror Has Two Faces, The (1996),4
+360,Return of the Jedi (1983),4
+8,Contact (1997),5
+308,Fargo (1996),5
+281,Contact (1997),2
+223,To Gillian on Her 37th Birthday (1996),2
+96,Star Wars (1977),5
+4,Star Wars (1977),5
+95,Return of the Jedi (1983),4
+416,Liar Liar (1997),4
+401,Liar Liar (1997),1
+115,Return of the Jedi (1983),4
+21,Liar Liar (1997),3
+401,Star Wars (1977),1
+324,Contact (1997),4
+338,Fargo (1996),4
+252,Fargo (1996),5
+59,Little Women (1994),4
+56,Contact (1997),4
+378,Fargo (1996),4
+71,Star Wars (1977),3
+59,Star Wars (1977),5
+345,Home for the Holidays (1995),3
+422,Contact (1997),4
+193,Fargo (1996),5
+176,Star Wars (1977),5
+393,Star Wars (1977),5
+404,Liar Liar (1997),4
+135,Contact (1997),4
+291,Liar Liar (1997),5
+200,Contact (1997),4
+188,Return of the Jedi (1983),3
+14,Star Wars (1977),5
+119,Fargo (1996),5
+251,Return of the Jedi (1983),4
+181,Contact (1997),3
+12,Star Wars (1977),4
+394,Return of the Jedi (1983),4
+406,Return of the Jedi (1983),5
+48,Return of the Jedi (1983),5
+432,Star Wars (1977),5
+381,Fargo (1996),4
+380,Return of the Jedi (1983),3
+378,Star Wars (1977),4
+207,Fargo (1996),2
+133,Liar Liar (1997),3
+348,Fargo (1996),4
+1,Fargo (1996),5
+300,Fargo (1996),3
+254,Contact (1997),4
+21,Contact (1997),4
+321,Fargo (1996),4
+385,Return of the Jedi (1983),1
+423,Contact (1997),5
+245,Star Wars (1977),4
+26,Liar Liar (1997),3
+269,Home for the Holidays (1995),4
+450,Fargo (1996),4
+114,Fargo (1996),5
+178,Contact (1997),4
+339,Contact (1997),3
+150,Bed of Roses (1996),2
+19,Contact (1997),4
+115,Star Wars (1977),5
+401,Fargo (1996),4
+226,Contact (1997),5
+82,Liar Liar (1997),4
+145,Contact (1997),4
+278,Liar Liar (1997),4
+387,Liar Liar (1997),2
+221,Contact (1997),1
+106,Little Women (1994),4
+177,Liar Liar (1997),4
+406,Star Wars (1977),5
+367,Contact (1997),4
+291,Return of the Jedi (1983),5
+345,To Gillian on Her 37th Birthday (1996),4
+414,Fargo (1996),5
+14,Home for the Holidays (1995),5
+95,Home for the Holidays (1995),3
+41,Return of the Jedi (1983),4
+267,Liar Liar (1997),3
+409,Return of the Jedi (1983),4
+325,Fargo (1996),4
+393,Fargo (1996),1
+238,Contact (1997),3
+444,Star Wars (1977),5
+49,Fargo (1996),4
+403,Contact (1997),4
+389,Little Women (1994),5
+454,Return of the Jedi (1983),3
+160,Star Wars (1977),4
+183,Liar Liar (1997),3
+362,Liar Liar (1997),3
+181,Bed of Roses (1996),2
+408,Contact (1997),3
+373,Fargo (1996),3
+213,Fargo (1996),5
+270,Return of the Jedi (1983),4
+23,Star Wars (1977),4
+433,Star Wars (1977),5
+6,Fargo (1996),5
+125,Star Wars (1977),5
+192,Contact (1997),5
+414,Liar Liar (1997),2
+343,Fargo (1996),5
+451,Liar Liar (1997),5
+201,Fargo (1996),4
+447,Fargo (1996),5
+270,Contact (1997),3
+274,Return of the Jedi (1983),5
+46,Liar Liar (1997),2
+299,Bed of Roses (1996),3
+320,Star Wars (1977),4
+218,Fargo (1996),4
+310,Return of the Jedi (1983),4
+121,Return of the Jedi (1983),5
+269,Fargo (1996),5
+450,To Gillian on Her 37th Birthday (1996),3
+29,Liar Liar (1997),4
+207,Return of the Jedi (1983),3
+13,Contact (1997),4
+438,Star Wars (1977),5
+28,Contact (1997),5
+456,Liar Liar (1997),1
+461,Star Wars (1977),3
+335,Contact (1997),1
+194,Fargo (1996),4
+250,Star Wars (1977),5
+43,Bed of Roses (1996),3
+304,Liar Liar (1997),4
+181,Liar Liar (1997),2
+363,Contact (1997),3
+437,Star Wars (1977),5
+422,Fargo (1996),4
+276,Contact (1997),5
+70,Return of the Jedi (1983),4
+174,To Gillian on Her 37th Birthday (1996),5
+472,Contact (1997),5
+137,Return of the Jedi (1983),5
+280,Little Women (1994),4
+175,Fargo (1996),2
+119,Star Wars (1977),5
+314,Bed of Roses (1996),5
+370,Liar Liar (1997),1
+27,Star Wars (1977),3
+416,Contact (1997),5
+466,Return of the Jedi (1983),4
+275,Liar Liar (1997),4
+63,Contact (1997),3
+275,Star Wars (1977),4
+389,Star Wars (1977),5
+403,Return of the Jedi (1983),4
+202,Contact (1997),4
+424,Liar Liar (1997),5
+81,Fargo (1996),3
+119,Liar Liar (1997),1
+445,Star Wars (1977),2
+333,Liar Liar (1997),3
+295,Return of the Jedi (1983),4
+101,Return of the Jedi (1983),4
+270,Star Wars (1977),5
+374,Fargo (1996),5
+255,Fargo (1996),3
+379,Fargo (1996),5
+422,Star Wars (1977),4
+2,Contact (1997),3
+465,Star Wars (1977),4
+363,Little Women (1994),2
+274,To Gillian on Her 37th Birthday (1996),2
+486,To Gillian on Her 37th Birthday (1996),2
+140,Liar Liar (1997),3
+87,Fargo (1996),5
+422,Return of the Jedi (1983),4
+60,Return of the Jedi (1983),4
+330,Little Women (1994),5
+467,Star Wars (1977),4
+413,Return of the Jedi (1983),5
+125,Liar Liar (1997),4
+164,Contact (1997),5
+258,Contact (1997),2
+268,Fargo (1996),3
+30,Contact (1997),5
+157,Star Wars (1977),4
+352,Fargo (1996),4
+276,Star Wars (1977),5
+263,Fargo (1996),5
+65,Star Wars (1977),5
+75,Mirror Has Two Faces, The (1996),1
+159,Liar Liar (1997),4
+185,Return of the Jedi (1983),4
+411,Contact (1997),4
+153,Liar Liar (1997),2
+55,Return of the Jedi (1983),4
+7,Liar Liar (1997),1
+23,Liar Liar (1997),1
+354,Fargo (1996),5
+474,Fargo (1996),5
+83,To Gillian on Her 37th Birthday (1996),3
+11,Home for the Holidays (1995),3
+463,Fargo (1996),4
+92,Liar Liar (1997),3
+85,Contact (1997),4
+10,Star Wars (1977),5
+178,To Gillian on Her 37th Birthday (1996),3
+459,Return of the Jedi (1983),4
+65,Liar Liar (1997),4
+227,Liar Liar (1997),3
+435,Star Wars (1977),5
+459,To Gillian on Her 37th Birthday (1996),4
+468,Liar Liar (1997),3
+68,Contact (1997),5
+293,Contact (1997),3
+125,Contact (1997),5
+458,Star Wars (1977),2
+160,Fargo (1996),5
+146,Contact (1997),4
+446,Liar Liar (1997),1
+478,Star Wars (1977),3
+213,Return of the Jedi (1983),4
+6,Star Wars (1977),4
+192,Star Wars (1977),4
+457,Little Women (1994),4
+387,Star Wars (1977),5
+84,Liar Liar (1997),3
+472,Return of the Jedi (1983),5
+368,Return of the Jedi (1983),4
+218,Liar Liar (1997),2
+470,Liar Liar (1997),3
+80,Fargo (1996),5
+405,Star Wars (1977),5
+287,Star Wars (1977),5
+444,Fargo (1996),5
+64,Star Wars (1977),5
+286,Return of the Jedi (1983),3
+11,Contact (1997),5
+61,Contact (1997),4
+311,Fargo (1996),1
+328,Little Women (1994),4
+364,Liar Liar (1997),5
+20,Return of the Jedi (1983),4
+434,Mirror Has Two Faces, The (1996),5
+296,Fargo (1996),5
+369,Star Wars (1977),5
+272,Star Wars (1977),4
+432,Contact (1997),4
+214,Return of the Jedi (1983),3
+503,Return of the Jedi (1983),5
+418,Contact (1997),5
+493,Fargo (1996),5
+404,Contact (1997),4
+394,Star Wars (1977),5
+334,Star Wars (1977),5
+123,Fargo (1996),4
+85,Fargo (1996),3
+339,Fargo (1996),5
+346,Star Wars (1977),5
+483,Return of the Jedi (1983),4
+166,Liar Liar (1997),3
+279,Return of the Jedi (1983),3
+4,Contact (1997),5
+500,Liar Liar (1997),3
+499,Return of the Jedi (1983),3
+352,Star Wars (1977),5
+151,Return of the Jedi (1983),5
+177,Star Wars (1977),5
+239,Return of the Jedi (1983),3
+203,Fargo (1996),1
+44,Fargo (1996),5
+447,Contact (1997),5
+298,Liar Liar (1997),3
+120,Contact (1997),5
+280,Mirror Has Two Faces, The (1996),5
+383,Fargo (1996),4
+301,Return of the Jedi (1983),5
+157,Fargo (1996),5
+104,Contact (1997),3
+153,Star Wars (1977),1
+396,Fargo (1996),2
+438,Return of the Jedi (1983),4
+62,Star Wars (1977),5
+324,Liar Liar (1997),5
+468,Contact (1997),4
+454,Contact (1997),4
+109,Return of the Jedi (1983),5
+48,Liar Liar (1997),3
+151,Home for the Holidays (1995),2
+497,Contact (1997),4
+475,Fargo (1996),5
+23,Fargo (1996),5
+313,Contact (1997),3
+303,Contact (1997),4
+307,Return of the Jedi (1983),5
+148,Star Wars (1977),5
+325,Star Wars (1977),5
+457,Contact (1997),5
+15,Star Wars (1977),5
+65,Contact (1997),3
+262,Return of the Jedi (1983),3
+365,Liar Liar (1997),1
+456,Star Wars (1977),4
+419,Return of the Jedi (1983),4
+453,Fargo (1996),5
+497,Fargo (1996),4
+371,Star Wars (1977),4
+429,Contact (1997),4
+92,Fargo (1996),5
+26,Return of the Jedi (1983),4
+180,Contact (1997),5
+467,Fargo (1996),5
+161,Return of the Jedi (1983),2
+454,Fargo (1996),4
+506,Star Wars (1977),5
+171,Contact (1997),4
+360,Star Wars (1977),4
+509,Star Wars (1977),5
+502,Liar Liar (1997),3
+380,Little Women (1994),3
+346,Return of the Jedi (1983),5
+498,Contact (1997),2
+214,Fargo (1996),4
+474,Return of the Jedi (1983),5
+96,Return of the Jedi (1983),5
+450,Contact (1997),4
+378,Home for the Holidays (1995),3
+533,Star Wars (1977),5
+257,Return of the Jedi (1983),5
+287,Return of the Jedi (1983),3
+454,Star Wars (1977),4
+340,Star Wars (1977),4
+239,Star Wars (1977),5
+345,Liar Liar (1997),3
+7,Fargo (1996),5
+221,Star Wars (1977),4
+253,Fargo (1996),4
+215,Star Wars (1977),5
+435,Liar Liar (1997),4
+235,Return of the Jedi (1983),3
+297,Contact (1997),5
+194,Star Wars (1977),3
+278,Contact (1997),3
+34,Liar Liar (1997),1
+183,Return of the Jedi (1983),2
+443,Contact (1997),5
+464,Contact (1997),5
+456,Fargo (1996),3
+168,Liar Liar (1997),4
+45,Star Wars (1977),5
+220,Liar Liar (1997),4
+376,Return of the Jedi (1983),4
+521,Fargo (1996),3
+144,Contact (1997),4
+433,Liar Liar (1997),3
+5,Star Wars (1977),4
+487,Liar Liar (1997),4
+391,Liar Liar (1997),2
+276,Fargo (1996),5
+486,Mirror Has Two Faces, The (1996),3
+274,Fargo (1996),5
+479,Star Wars (1977),4
+459,Bed of Roses (1996),4
+104,Return of the Jedi (1983),5
+450,Liar Liar (1997),4
+210,Return of the Jedi (1983),5
+535,Return of the Jedi (1983),4
+522,Fargo (1996),5
+345,Bed of Roses (1996),3
+303,Star Wars (1977),5
+174,Fargo (1996),5
+494,Star Wars (1977),5
+484,Contact (1997),5
+459,Mirror Has Two Faces, The (1996),3
+9,Liar Liar (1997),4
+33,Liar Liar (1997),3
+504,Home for the Holidays (1995),4
+511,Liar Liar (1997),4
+430,Fargo (1996),5
+504,Star Wars (1977),3
+7,Contact (1997),4
+75,Liar Liar (1997),3
+314,Little Women (1994),5
+347,Star Wars (1977),5
+59,Return of the Jedi (1983),5
+372,Fargo (1996),3
+382,Contact (1997),2
+464,Return of the Jedi (1983),3
+69,Return of the Jedi (1983),5
+161,Star Wars (1977),2
+417,Return of the Jedi (1983),3
+130,Return of the Jedi (1983),5
+313,Star Wars (1977),5
+250,Fargo (1996),5
+262,Fargo (1996),3
+271,Little Women (1994),4
+116,Contact (1997),4
+113,Star Wars (1977),5
+94,Home for the Holidays (1995),3
+453,Star Wars (1977),5
+540,Fargo (1996),5
+308,Little Women (1994),4
+505,Contact (1997),1
+540,Star Wars (1977),5
+262,Liar Liar (1997),2
+541,Little Women (1994),4
+494,Fargo (1996),5
+402,Star Wars (1977),4
+551,Return of the Jedi (1983),2
+87,Return of the Jedi (1983),5
+219,Contact (1997),5
+66,Star Wars (1977),5
+72,Mirror Has Two Faces, The (1996),3
+382,Fargo (1996),4
+74,Contact (1997),4
+504,Contact (1997),5
+1,Mirror Has Two Faces, The (1996),3
+121,Fargo (1996),4
+523,Star Wars (1977),5
+496,Return of the Jedi (1983),5
+557,Liar Liar (1997),3
+537,Contact (1997),4
+536,Star Wars (1977),5
+510,Liar Liar (1997),3
+130,Fargo (1996),3
+188,Fargo (1996),4
+527,Star Wars (1977),4
+533,Contact (1997),4
+407,Fargo (1996),5
+181,Fargo (1996),3
+296,Liar Liar (1997),1
+336,Fargo (1996),3
+164,Fargo (1996),5
+277,Star Wars (1977),3
+342,Little Women (1994),4
+285,Fargo (1996),4
+3,Contact (1997),2
+347,Contact (1997),4
+527,Return of the Jedi (1983),4
+125,Return of the Jedi (1983),5
+486,Contact (1997),5
+479,Return of the Jedi (1983),5
+407,Return of the Jedi (1983),3
+346,Fargo (1996),3
+452,Liar Liar (1997),2
+485,Liar Liar (1997),1
+438,Fargo (1996),4
+347,Return of the Jedi (1983),5
+199,Fargo (1996),3
+145,Liar Liar (1997),4
+464,Liar Liar (1997),4
+250,Contact (1997),4
+354,Contact (1997),4
+326,Return of the Jedi (1983),4
+549,Star Wars (1977),5
+357,Mirror Has Two Faces, The (1996),5
+518,Fargo (1996),4
+283,Liar Liar (1997),4
+110,Contact (1997),4
+551,Star Wars (1977),2
+263,Little Women (1994),4
+254,Return of the Jedi (1983),5
+530,Star Wars (1977),4
+57,Return of the Jedi (1983),5
+253,Mirror Has Two Faces, The (1996),4
+584,Contact (1997),4
+339,Star Wars (1977),4
+49,Star Wars (1977),1
+406,Little Women (1994),4
+378,Return of the Jedi (1983),4
+539,Star Wars (1977),3
+501,Return of the Jedi (1983),4
+71,Return of the Jedi (1983),3
+581,Star Wars (1977),4
+484,Star Wars (1977),5
+104,Liar Liar (1997),3
+294,Star Wars (1977),5
+592,Star Wars (1977),5
+54,Return of the Jedi (1983),5
+15,Return of the Jedi (1983),5
+463,Star Wars (1977),4
+574,Contact (1997),5
+508,Return of the Jedi (1983),3
+474,Contact (1997),4
+217,Star Wars (1977),1
+87,Star Wars (1977),5
+174,Bed of Roses (1996),5
+576,Return of the Jedi (1983),4
+468,Return of the Jedi (1983),3
+432,Return of the Jedi (1983),5
+244,Home for the Holidays (1995),3
+305,Return of the Jedi (1983),4
+488,Fargo (1996),2
+578,Liar Liar (1997),3
+91,Star Wars (1977),5
+417,Star Wars (1977),3
+569,Star Wars (1977),5
+498,Star Wars (1977),4
+516,Return of the Jedi (1983),4
+108,Liar Liar (1997),4
+47,Contact (1997),4
+89,Fargo (1996),5
+575,Return of the Jedi (1983),2
+293,Star Wars (1977),5
+559,Liar Liar (1997),1
+46,Star Wars (1977),4
+201,Return of the Jedi (1983),2
+500,Little Women (1994),3
+601,Return of the Jedi (1983),5
+432,Fargo (1996),3
+311,Liar Liar (1997),4
+327,Fargo (1996),4
+495,Star Wars (1977),5
+314,Liar Liar (1997),5
+373,Return of the Jedi (1983),5
+361,Contact (1997),3
+360,Fargo (1996),5
+410,Contact (1997),2
+304,Bed of Roses (1996),4
+303,Fargo (1996),5
+350,Contact (1997),3
+158,Return of the Jedi (1983),3
+385,Star Wars (1977),1
+69,Star Wars (1977),5
+59,Mirror Has Two Faces, The (1996),2
+201,Little Women (1994),3
+601,Little Women (1994),3
+248,Star Wars (1977),5
+293,Liar Liar (1997),2
+399,Star Wars (1977),3
+528,Star Wars (1977),5
+281,Liar Liar (1997),3
+382,Star Wars (1977),1
+151,Star Wars (1977),5
+416,Star Wars (1977),5
+389,Return of the Jedi (1983),4
+618,Fargo (1996),4
+365,Fargo (1996),5
+35,Contact (1997),2
+550,To Gillian on Her 37th Birthday (1996),2
+2,Liar Liar (1997),1
+509,Contact (1997),4
+613,Contact (1997),5
+500,Contact (1997),4
+37,Star Wars (1977),5
+345,Star Wars (1977),5
+405,Home for the Holidays (1995),1
+582,Contact (1997),4
+308,Liar Liar (1997),3
+523,Return of the Jedi (1983),5
+504,Little Women (1994),4
+438,Mirror Has Two Faces, The (1996),4
+110,Liar Liar (1997),3
+82,Return of the Jedi (1983),4
+486,Return of the Jedi (1983),4
+624,Bed of Roses (1996),4
+17,Liar Liar (1997),4
+470,Star Wars (1977),5
+411,Star Wars (1977),5
+244,Star Wars (1977),5
+588,Contact (1997),4
+350,Star Wars (1977),5
+623,Star Wars (1977),5
+420,Fargo (1996),5
+617,Liar Liar (1997),1
+66,Liar Liar (1997),4
+560,Contact (1997),5
+627,Little Women (1994),1
+279,Liar Liar (1997),2
+541,Return of the Jedi (1983),5
+548,Contact (1997),4
+395,Return of the Jedi (1983),5
+457,Fargo (1996),5
+459,Fargo (1996),1
+153,Contact (1997),5
+402,Contact (1997),4
+479,Fargo (1996),3
+411,Return of the Jedi (1983),5
+516,Star Wars (1977),5
+430,Star Wars (1977),4
+128,Return of the Jedi (1983),4
+493,Star Wars (1977),5
+614,Fargo (1996),5
+250,Return of the Jedi (1983),4
+182,Return of the Jedi (1983),5
+294,Fargo (1996),4
+621,Return of the Jedi (1983),5
+414,Contact (1997),5
+624,Star Wars (1977),5
+437,Return of the Jedi (1983),4
+596,Contact (1997),3
+249,Liar Liar (1997),3
+3,Return of the Jedi (1983),4
+603,Fargo (1996),4
+52,Contact (1997),5
+536,Little Women (1994),3
+490,Contact (1997),2
+630,Liar Liar (1997),4
+163,Contact (1997),4
+620,Liar Liar (1997),5
+489,Liar Liar (1997),3
+533,Return of the Jedi (1983),5
+213,Contact (1997),4
+637,Fargo (1996),4
+323,Contact (1997),4
+579,Fargo (1996),4
+487,Return of the Jedi (1983),4
+524,Fargo (1996),5
+209,Return of the Jedi (1983),4
+442,Fargo (1996),2
+517,Star Wars (1977),5
+169,Contact (1997),5
+644,Fargo (1996),4
+353,Contact (1997),5
+635,Liar Liar (1997),3
+592,Contact (1997),5
+513,Return of the Jedi (1983),5
+615,Liar Liar (1997),3
+430,Liar Liar (1997),2
+625,Contact (1997),4
+606,Contact (1997),4
+370,Star Wars (1977),4
+460,Contact (1997),3
+551,To Gillian on Her 37th Birthday (1996),3
+268,Star Wars (1977),5
+234,Return of the Jedi (1983),3
+580,Liar Liar (1997),4
+111,Contact (1997),4
+324,Star Wars (1977),5
+13,To Gillian on Her 37th Birthday (1996),2
+630,Bed of Roses (1996),4
+1,Return of the Jedi (1983),5
+493,Contact (1997),5
+74,Liar Liar (1997),4
+506,Contact (1997),4
+603,Return of the Jedi (1983),5
+588,Little Women (1994),4
+221,Return of the Jedi (1983),4
+470,Fargo (1996),4
+588,Bed of Roses (1996),5
+421,Fargo (1996),4
+638,Star Wars (1977),4
+563,Star Wars (1977),5
+178,Star Wars (1977),5
+567,Return of the Jedi (1983),1
+618,Star Wars (1977),5
+26,Star Wars (1977),4
+69,Liar Liar (1997),2
+642,Star Wars (1977),5
+644,Liar Liar (1997),4
+161,Fargo (1996),4
+521,Contact (1997),4
+378,Liar Liar (1997),2
+542,Fargo (1996),4
+500,Return of the Jedi (1983),3
+544,Contact (1997),3
+653,Star Wars (1977),5
+642,Contact (1997),3
+354,Star Wars (1977),4
+561,Contact (1997),2
+60,Star Wars (1977),5
+493,Return of the Jedi (1983),5
+400,Liar Liar (1997),3
+449,Fargo (1996),5
+193,Liar Liar (1997),1
+547,Contact (1997),4
+455,Fargo (1996),4
+654,Contact (1997),4
+593,Fargo (1996),5
+524,Return of the Jedi (1983),3
+644,Star Wars (1977),4
+491,Contact (1997),4
+496,Star Wars (1977),5
+488,Contact (1997),4
+528,Return of the Jedi (1983),5
+460,Liar Liar (1997),2
+216,Fargo (1996),5
+617,Fargo (1996),4
+184,Star Wars (1977),4
+588,Mirror Has Two Faces, The (1996),5
+529,Liar Liar (1997),4
+590,Fargo (1996),5
+596,Liar Liar (1997),4
+380,Fargo (1996),4
+445,Fargo (1996),2
+416,Return of the Jedi (1983),5
+650,Star Wars (1977),5
+621,Fargo (1996),5
+280,Liar Liar (1997),2
+638,Return of the Jedi (1983),5
+582,Return of the Jedi (1983),4
+30,Star Wars (1977),3
+458,Bed of Roses (1996),2
+397,Fargo (1996),5
+84,Contact (1997),4
+630,Contact (1997),3
+655,Fargo (1996),3
+236,Return of the Jedi (1983),4
+663,Return of the Jedi (1983),4
+457,Star Wars (1977),5
+330,Fargo (1996),4
+589,Liar Liar (1997),5
+201,Contact (1997),2
+343,Star Wars (1977),5
+552,Star Wars (1977),4
+139,Fargo (1996),5
+264,Fargo (1996),5
+600,Star Wars (1977),4
+342,To Gillian on Her 37th Birthday (1996),2
+387,Contact (1997),4
+515,Contact (1997),4
+263,Star Wars (1977),5
+653,Return of the Jedi (1983),4
+545,Return of the Jedi (1983),5
+624,Contact (1997),4
+466,Liar Liar (1997),3
+642,Liar Liar (1997),5
+673,Liar Liar (1997),4
+222,Return of the Jedi (1983),4
+662,Star Wars (1977),3
+217,Return of the Jedi (1983),1
+510,Contact (1997),4
+419,Fargo (1996),5
+561,Fargo (1996),4
+233,Fargo (1996),4
+457,Return of the Jedi (1983),4
+203,Contact (1997),3
+380,Contact (1997),4
+471,Star Wars (1977),3
+194,Liar Liar (1997),4
+430,Return of the Jedi (1983),4
+46,Fargo (1996),4
+537,Return of the Jedi (1983),2
+592,Fargo (1996),5
+593,Mirror Has Two Faces, The (1996),3
+659,Contact (1997),4
+602,Star Wars (1977),5
+363,Star Wars (1977),5
+654,Bed of Roses (1996),3
+610,Liar Liar (1997),1
+474,Little Women (1994),4
+153,Return of the Jedi (1983),1
+541,Star Wars (1977),5
+188,Liar Liar (1997),2
+481,Star Wars (1977),4
+514,Contact (1997),4
+465,Contact (1997),5
+581,Fargo (1996),5
+668,Contact (1997),2
+421,Star Wars (1977),5
+148,Return of the Jedi (1983),5
+347,Fargo (1996),3
+479,Contact (1997),5
+634,Fargo (1996),4
+597,Star Wars (1977),5
+538,Contact (1997),3
+533,Fargo (1996),5
+546,Fargo (1996),3
+220,Contact (1997),3
+334,Return of the Jedi (1983),4
+503,Star Wars (1977),5
+626,Liar Liar (1997),3
+550,Star Wars (1977),5
+391,Fargo (1996),4
+370,Return of the Jedi (1983),4
+521,Star Wars (1977),4
+634,Contact (1997),4
+674,Liar Liar (1997),4
+441,Liar Liar (1997),4
+693,Return of the Jedi (1983),3
+668,Liar Liar (1997),3
+660,To Gillian on Her 37th Birthday (1996),2
+371,Return of the Jedi (1983),3
+406,Mirror Has Two Faces, The (1996),3
+89,Star Wars (1977),5
+666,Contact (1997),4
+435,Contact (1997),4
+629,Star Wars (1977),5
+697,Liar Liar (1997),4
+189,Star Wars (1977),5
+637,Liar Liar (1997),3
+672,Star Wars (1977),3
+182,Star Wars (1977),5
+427,Contact (1997),4
+232,Fargo (1996),5
+622,Star Wars (1977),5
+323,Star Wars (1977),5
+699,Fargo (1996),4
+349,Fargo (1996),4
+417,Contact (1997),4
+322,Contact (1997),4
+609,Contact (1997),3
+514,Return of the Jedi (1983),4
+700,Return of the Jedi (1983),5
+481,Fargo (1996),4
+222,Home for the Holidays (1995),2
+246,Return of the Jedi (1983),5
+582,Star Wars (1977),5
+291,Fargo (1996),5
+666,Little Women (1994),3
+43,Liar Liar (1997),5
+437,Little Women (1994),4
+534,Liar Liar (1997),5
+494,Liar Liar (1997),4
+654,Star Wars (1977),5
+287,Fargo (1996),5
+682,Star Wars (1977),5
+643,Return of the Jedi (1983),3
+707,Home for the Holidays (1995),2
+92,Contact (1997),4
+54,Fargo (1996),5
+426,Star Wars (1977),4
+619,Star Wars (1977),4
+654,Liar Liar (1997),3
+235,Star Wars (1977),5
+581,Return of the Jedi (1983),3
+627,Contact (1997),4
+337,Return of the Jedi (1983),2
+130,Liar Liar (1997),5
+39,Liar Liar (1997),4
+116,Return of the Jedi (1983),4
+466,Contact (1997),4
+429,Return of the Jedi (1983),5
+643,Fargo (1996),5
+642,Little Women (1994),5
+22,Return of the Jedi (1983),5
+505,Liar Liar (1997),3
+128,Mirror Has Two Faces, The (1996),1
+533,Liar Liar (1997),4
+177,Contact (1997),3
+592,Liar Liar (1997),3
+619,Contact (1997),5
+527,Fargo (1996),5
+236,Fargo (1996),3
+659,Return of the Jedi (1983),3
+112,Liar Liar (1997),3
+608,Star Wars (1977),1
+679,Return of the Jedi (1983),5
+526,Star Wars (1977),5
+591,Fargo (1996),5
+393,Contact (1997),4
+610,Little Women (1994),2
+580,Return of the Jedi (1983),5
+698,Star Wars (1977),5
+249,Contact (1997),5
+660,Star Wars (1977),4
+671,Contact (1997),5
+391,Contact (1997),3
+638,Fargo (1996),3
+450,Bed of Roses (1996),5
+1,Star Wars (1977),5
+308,Star Wars (1977),5
+145,Return of the Jedi (1983),5
+652,Little Women (1994),5
+328,Return of the Jedi (1983),4
+676,Return of the Jedi (1983),5
+644,Contact (1997),4
+425,Fargo (1996),4
+678,Return of the Jedi (1983),3
+267,Fargo (1996),5
+463,Contact (1997),5
+230,Liar Liar (1997),5
+577,Fargo (1996),4
+715,Return of the Jedi (1983),4
+453,Contact (1997),4
+637,Star Wars (1977),4
+583,Contact (1997),4
+102,Contact (1997),4
+388,Contact (1997),5
+589,Contact (1997),2
+654,Return of the Jedi (1983),3
+727,Return of the Jedi (1983),3
+575,Star Wars (1977),2
+560,Fargo (1996),5
+694,Star Wars (1977),5
+659,Little Women (1994),3
+554,Mirror Has Two Faces, The (1996),3
+592,Return of the Jedi (1983),3
+540,Liar Liar (1997),4
+646,Contact (1997),3
+593,To Gillian on Her 37th Birthday (1996),2
+274,Contact (1997),5
+545,Contact (1997),3
+97,Fargo (1996),2
+702,Liar Liar (1997),1
+691,Liar Liar (1997),4
+634,Star Wars (1977),4
+430,Contact (1997),4
+711,Little Women (1994),5
+474,Star Wars (1977),5
+332,Liar Liar (1997),5
+89,Return of the Jedi (1983),4
+170,Contact (1997),3
+101,Bed of Roses (1996),2
+594,Return of the Jedi (1983),3
+736,Return of the Jedi (1983),2
+720,Contact (1997),4
+262,Bed of Roses (1996),3
+588,To Gillian on Her 37th Birthday (1996),4
+141,Fargo (1996),4
+705,Star Wars (1977),4
+79,Contact (1997),5
+488,Return of the Jedi (1983),4
+100,Contact (1997),4
+703,Liar Liar (1997),2
+742,Contact (1997),5
+422,Liar Liar (1997),3
+459,Contact (1997),3
+712,Return of the Jedi (1983),5
+169,Star Wars (1977),5
+586,Return of the Jedi (1983),4
+502,Contact (1997),2
+43,Little Women (1994),4
+222,Liar Liar (1997),3
+238,Liar Liar (1997),3
+490,Return of the Jedi (1983),4
+310,Star Wars (1977),5
+103,Return of the Jedi (1983),4
+694,Little Women (1994),4
+699,Contact (1997),5
+632,Return of the Jedi (1983),5
+735,Contact (1997),4
+499,Star Wars (1977),3
+701,Fargo (1996),5
+549,Fargo (1996),4
+719,Star Wars (1977),2
+595,Liar Liar (1997),2
+546,Liar Liar (1997),1
+49,Return of the Jedi (1983),1
+538,Liar Liar (1997),3
+274,Mirror Has Two Faces, The (1996),4
+714,Return of the Jedi (1983),5
+58,Return of the Jedi (1983),3
+465,Return of the Jedi (1983),3
+692,Fargo (1996),4
+432,Liar Liar (1997),4
+345,Contact (1997),4
+268,Liar Liar (1997),3
+717,Liar Liar (1997),3
+309,Contact (1997),5
+538,Fargo (1996),4
+648,Return of the Jedi (1983),5
+52,Fargo (1996),4
+260,Contact (1997),3
+594,Star Wars (1977),3
+480,Contact (1997),3
+388,Fargo (1996),3
+733,Liar Liar (1997),2
+717,Fargo (1996),4
+517,Contact (1997),5
+62,Little Women (1994),4
+505,Star Wars (1977),3
+490,Star Wars (1977),5
+655,Liar Liar (1997),3
+602,Return of the Jedi (1983),5
+563,Return of the Jedi (1983),4
+142,Liar Liar (1997),3
+595,Return of the Jedi (1983),5
+554,Fargo (1996),3
+623,Return of the Jedi (1983),5
+488,Star Wars (1977),4
+757,Fargo (1996),3
+407,Contact (1997),4
+557,Star Wars (1977),4
+716,Return of the Jedi (1983),4
+758,Contact (1997),4
+603,Liar Liar (1997),4
+72,Star Wars (1977),2
+614,Liar Liar (1997),4
+90,Little Women (1994),4
+484,Return of the Jedi (1983),5
+721,Contact (1997),3
+537,Star Wars (1977),4
+296,Star Wars (1977),5
+548,Fargo (1996),5
+442,Liar Liar (1997),2
+342,Liar Liar (1997),3
+537,Liar Liar (1997),1
+100,Liar Liar (1997),4
+666,Return of the Jedi (1983),2
+721,Star Wars (1977),5
+374,To Gillian on Her 37th Birthday (1996),2
+57,Contact (1997),5
+704,Star Wars (1977),5
+175,Star Wars (1977),5
+624,Return of the Jedi (1983),4
+506,Liar Liar (1997),4
+497,Home for the Holidays (1995),4
+655,Star Wars (1977),4
+302,Liar Liar (1997),1
+378,Mirror Has Two Faces, The (1996),2
+730,Star Wars (1977),4
+636,Contact (1997),5
+154,Contact (1997),3
+540,Contact (1997),4
+482,Star Wars (1977),4
+761,Bed of Roses (1996),4
+21,Star Wars (1977),3
+755,Liar Liar (1997),3
+684,Return of the Jedi (1983),4
+429,Star Wars (1977),5
+259,Return of the Jedi (1983),4
+554,Liar Liar (1997),3
+609,Liar Liar (1997),2
+450,Home for the Holidays (1995),4
+761,Liar Liar (1997),3
+152,Bed of Roses (1996),4
+676,Star Wars (1977),5
+760,Return of the Jedi (1983),3
+580,Fargo (1996),3
+736,Star Wars (1977),3
+663,Contact (1997),3
+295,Fargo (1996),5
+608,Little Women (1994),5
+233,Star Wars (1977),3
+506,Little Women (1994),4
+758,Star Wars (1977),4
+579,Contact (1997),5
+333,Fargo (1996),4
+721,Little Women (1994),3
+682,Return of the Jedi (1983),5
+408,Liar Liar (1997),5
+710,Star Wars (1977),4
+674,Star Wars (1977),4
+413,Star Wars (1977),5
+739,Fargo (1996),5
+743,Fargo (1996),5
+500,Star Wars (1977),3
+771,Contact (1997),5
+768,Bed of Roses (1996),2
+757,Star Wars (1977),4
+514,Liar Liar (1997),3
+553,Fargo (1996),5
+116,Star Wars (1977),3
+622,Liar Liar (1997),3
+13,Star Wars (1977),5
+750,Liar Liar (1997),4
+593,Star Wars (1977),4
+323,Liar Liar (1997),3
+453,Return of the Jedi (1983),5
+413,Contact (1997),4
+690,Home for the Holidays (1995),1
+439,Fargo (1996),3
+538,Return of the Jedi (1983),3
+630,Fargo (1996),3
+445,Return of the Jedi (1983),2
+711,Home for the Holidays (1995),5
+774,Liar Liar (1997),1
+42,Liar Liar (1997),4
+462,Fargo (1996),4
+452,Return of the Jedi (1983),4
+721,Liar Liar (1997),3
+708,Star Wars (1977),5
+417,Fargo (1996),3
+506,Return of the Jedi (1983),5
+781,Fargo (1996),5
+417,Liar Liar (1997),4
+491,Fargo (1996),5
+777,Fargo (1996),1
+373,Star Wars (1977),5
+495,Return of the Jedi (1983),5
+562,Return of the Jedi (1983),3
+703,Contact (1997),4
+608,Fargo (1996),4
+143,Liar Liar (1997),3
+55,Star Wars (1977),4
+629,Contact (1997),4
+424,Star Wars (1977),3
+294,Return of the Jedi (1983),5
+435,Fargo (1996),3
+665,Return of the Jedi (1983),4
+487,Contact (1997),5
+186,Contact (1997),1
+802,Liar Liar (1997),4
+395,Star Wars (1977),5
+345,Mirror Has Two Faces, The (1996),3
+374,Star Wars (1977),3
+675,Contact (1997),3
+605,Fargo (1996),5
+795,Fargo (1996),5
+663,Star Wars (1977),5
+484,Liar Liar (1997),4
+727,Liar Liar (1997),4
+573,Star Wars (1977),4
+397,Return of the Jedi (1983),4
+706,Fargo (1996),1
+694,Return of the Jedi (1983),5
+524,Star Wars (1977),4
+706,Star Wars (1977),5
+691,Star Wars (1977),4
+15,Mirror Has Two Faces, The (1996),4
+119,Return of the Jedi (1983),4
+763,Contact (1997),3
+484,Little Women (1994),4
+764,Fargo (1996),4
+654,Fargo (1996),1
+712,Little Women (1994),5
+458,Return of the Jedi (1983),2
+265,Fargo (1996),5
+775,Contact (1997),4
+593,Bed of Roses (1996),3
+711,Star Wars (1977),4
+174,Star Wars (1977),4
+8,Return of the Jedi (1983),4
+456,Return of the Jedi (1983),3
+682,Fargo (1996),3
+748,Contact (1997),5
+782,Liar Liar (1997),3
+475,Star Wars (1977),5
+756,Fargo (1996),5
+104,Star Wars (1977),5
+365,To Gillian on Her 37th Birthday (1996),3
+468,Fargo (1996),5
+600,Return of the Jedi (1983),4
+751,Star Wars (1977),5
+575,Liar Liar (1997),1
+368,Fargo (1996),4
+492,Fargo (1996),4
+793,Liar Liar (1997),5
+400,Contact (1997),5
+742,Return of the Jedi (1983),3
+796,Home for the Holidays (1995),3
+500,Fargo (1996),4
+751,Fargo (1996),4
+555,Return of the Jedi (1983),5
+682,Liar Liar (1997),3
+576,Star Wars (1977),4
+570,Contact (1997),3
+794,Star Wars (1977),5
+224,Little Women (1994),4
+698,Mirror Has Two Faces, The (1996),3
+700,Star Wars (1977),5
+236,Star Wars (1977),3
+556,Liar Liar (1997),2
+489,Contact (1997),5
+760,Bed of Roses (1996),4
+596,Return of the Jedi (1983),4
+610,Star Wars (1977),4
+513,Star Wars (1977),5
+113,Contact (1997),5
+184,Mirror Has Two Faces, The (1996),3
+734,Little Women (1994),4
+477,To Gillian on Her 37th Birthday (1996),4
+43,Contact (1997),5
+829,Bed of Roses (1996),1
+678,Star Wars (1977),4
+53,Star Wars (1977),4
+263,Contact (1997),3
+497,Return of the Jedi (1983),5
+598,Contact (1997),5
+318,Fargo (1996),5
+712,Mirror Has Two Faces, The (1996),5
+703,Star Wars (1977),5
+487,Star Wars (1977),4
+367,Star Wars (1977),5
+639,Home for the Holidays (1995),1
+392,Liar Liar (1997),4
+814,Fargo (1996),4
+658,Return of the Jedi (1983),3
+682,Little Women (1994),3
+761,Return of the Jedi (1983),5
+359,Return of the Jedi (1983),5
+768,Star Wars (1977),4
+625,Return of the Jedi (1983),4
+725,Contact (1997),4
+751,Return of the Jedi (1983),5
+2,Fargo (1996),5
+714,Star Wars (1977),5
+770,Return of the Jedi (1983),3
+561,Return of the Jedi (1983),3
+94,Return of the Jedi (1983),4
+619,Liar Liar (1997),1
+487,Fargo (1996),5
+566,Fargo (1996),5
+42,Star Wars (1977),5
+78,Liar Liar (1997),3
+659,Star Wars (1977),3
+786,Little Women (1994),4
+759,Contact (1997),4
+532,Return of the Jedi (1983),5
+529,Contact (1997),4
+680,Fargo (1996),3
+808,Liar Liar (1997),5
+825,Liar Liar (1997),4
+630,Star Wars (1977),3
+816,Contact (1997),3
+767,Fargo (1996),5
+301,Star Wars (1977),5
+799,Star Wars (1977),4
+101,To Gillian on Her 37th Birthday (1996),3
+827,Contact (1997),3
+832,Return of the Jedi (1983),3
+708,To Gillian on Her 37th Birthday (1996),2
+198,Star Wars (1977),5
+520,Fargo (1996),4
+699,Return of the Jedi (1983),3
+532,Fargo (1996),5
+797,Star Wars (1977),5
+17,Fargo (1996),4
+564,Star Wars (1977),4
+174,Home for the Holidays (1995),5
+288,Liar Liar (1997),2
+606,Fargo (1996),5
+624,Liar Liar (1997),3
+658,Star Wars (1977),4
+745,Fargo (1996),5
+746,Return of the Jedi (1983),5
+813,Liar Liar (1997),1
+761,Star Wars (1977),5
+578,Contact (1997),1
+796,Bed of Roses (1996),4
+132,Star Wars (1977),3
+550,Liar Liar (1997),3
+848,Liar Liar (1997),5
+837,Mirror Has Two Faces, The (1996),4
+749,Liar Liar (1997),2
+601,Contact (1997),5
+381,Liar Liar (1997),5
+830,Fargo (1996),5
+681,Contact (1997),1
+761,Contact (1997),4
+231,Star Wars (1977),4
+758,Home for the Holidays (1995),2
+564,Return of the Jedi (1983),4
+831,Return of the Jedi (1983),5
+769,Contact (1997),3
+216,Star Wars (1977),4
+834,Contact (1997),4
+834,Fargo (1996),4
+504,Liar Liar (1997),2
+838,Return of the Jedi (1983),5
+758,Fargo (1996),5
+788,Little Women (1994),3
+528,Liar Liar (1997),3
+605,Liar Liar (1997),4
+826,Star Wars (1977),5
+655,Contact (1997),2
+470,Return of the Jedi (1983),4
+707,Fargo (1996),5
+846,Contact (1997),3
+189,Return of the Jedi (1983),3
+746,Star Wars (1977),5
+573,Contact (1997),4
+277,Contact (1997),4
+835,Star Wars (1977),4
+230,Fargo (1996),4
+580,Contact (1997),5
+862,Star Wars (1977),5
+791,Star Wars (1977),5
+546,Return of the Jedi (1983),5
+292,Star Wars (1977),4
+118,Contact (1997),5
+725,Fargo (1996),5
+403,Fargo (1996),5
+85,Star Wars (1977),5
+745,Return of the Jedi (1983),2
+569,Contact (1997),5
+774,Contact (1997),1
+727,Star Wars (1977),4
+825,Star Wars (1977),4
+392,Star Wars (1977),5
+286,Bed of Roses (1996),5
+856,Contact (1997),4
+857,Liar Liar (1997),3
+760,Star Wars (1977),3
+480,Liar Liar (1997),1
+234,Fargo (1996),4
+669,Contact (1997),2
+419,Star Wars (1977),5
+773,Fargo (1996),4
+337,Star Wars (1977),5
+416,Little Women (1994),5
+676,Contact (1997),2
+560,Return of the Jedi (1983),4
+650,Return of the Jedi (1983),4
+709,Liar Liar (1997),3
+864,Star Wars (1977),5
+748,Star Wars (1977),5
+697,Return of the Jedi (1983),4
+269,Return of the Jedi (1983),2
+701,Star Wars (1977),5
+686,Return of the Jedi (1983),4
+744,Star Wars (1977),3
+549,Return of the Jedi (1983),4
+811,Liar Liar (1997),4
+709,Return of the Jedi (1983),4
+660,Fargo (1996),3
+821,Return of the Jedi (1983),4
+480,Fargo (1996),4
+876,Liar Liar (1997),4
+476,Liar Liar (1997),3
+443,Liar Liar (1997),5
+643,Star Wars (1977),4
+735,Fargo (1996),2
+655,Return of the Jedi (1983),3
+444,Contact (1997),3
+401,Return of the Jedi (1983),3
+255,Liar Liar (1997),2
+753,Star Wars (1977),4
+861,Liar Liar (1997),3
+393,Return of the Jedi (1983),4
+530,Fargo (1996),4
+392,Return of the Jedi (1983),5
+16,Fargo (1996),5
+748,Little Women (1994),3
+622,Fargo (1996),5
+92,Star Wars (1977),5
+833,Star Wars (1977),2
+51,Star Wars (1977),5
+747,Star Wars (1977),5
+265,Star Wars (1977),2
+752,Liar Liar (1997),3
+593,Little Women (1994),4
+826,Liar Liar (1997),4
+872,Contact (1997),4
+869,To Gillian on Her 37th Birthday (1996),2
+567,Fargo (1996),1
+468,Little Women (1994),3
+717,Star Wars (1977),4
+249,Return of the Jedi (1983),3
+698,Liar Liar (1997),4
+665,Little Women (1994),4
+604,Fargo (1996),5
+397,Star Wars (1977),5
+795,Return of the Jedi (1983),4
+665,Fargo (1996),3
+851,Star Wars (1977),5
+11,Little Women (1994),4
+799,Contact (1997),5
+295,Star Wars (1977),5
+665,Liar Liar (1997),2
+810,Liar Liar (1997),5
+588,Return of the Jedi (1983),5
+821,Fargo (1996),2
+245,Contact (1997),4
+752,Contact (1997),3
+873,Contact (1997),3
+779,Return of the Jedi (1983),5
+82,Fargo (1996),5
+127,Contact (1997),5
+479,Liar Liar (1997),3
+669,Star Wars (1977),5
+757,Return of the Jedi (1983),3
+370,Fargo (1996),4
+728,Fargo (1996),5
+811,Contact (1997),5
+864,Home for the Holidays (1995),2
+470,Contact (1997),4
+560,Bed of Roses (1996),1
+149,Contact (1997),3
+880,Star Wars (1977),5
+862,Return of the Jedi (1983),5
+514,Star Wars (1977),5
+883,Star Wars (1977),4
+717,To Gillian on Her 37th Birthday (1996),4
+561,Star Wars (1977),3
+880,Return of the Jedi (1983),5
+300,Liar Liar (1997),3
+540,Mirror Has Two Faces, The (1996),3
+512,Contact (1997),3
+653,Contact (1997),3
+692,Liar Liar (1997),3
+830,Star Wars (1977),5
+465,Fargo (1996),3
+782,Contact (1997),4
+792,Fargo (1996),4
+102,Liar Liar (1997),2
+552,Liar Liar (1997),4
+831,Fargo (1996),4
+740,Liar Liar (1997),4
+334,Contact (1997),4
+632,Star Wars (1977),5
+296,Return of the Jedi (1983),5
+477,Liar Liar (1997),4
+758,Liar Liar (1997),5
+192,Fargo (1996),5
+664,Star Wars (1977),5
+860,Liar Liar (1997),2
+881,Liar Liar (1997),3
+867,Contact (1997),3
+177,Return of the Jedi (1983),4
+844,Star Wars (1977),5
+698,Contact (1997),3
+301,Liar Liar (1997),4
+824,Liar Liar (1997),3
+636,Fargo (1996),5
+812,Liar Liar (1997),5
+858,Return of the Jedi (1983),2
+424,Fargo (1996),5
+653,Liar Liar (1997),2
+51,Return of the Jedi (1983),5
+745,Contact (1997),5
+706,Liar Liar (1997),4
+399,Return of the Jedi (1983),3
+839,Mirror Has Two Faces, The (1996),3
+890,Return of the Jedi (1983),4
+626,Contact (1997),4
+535,Little Women (1994),4
+56,Star Wars (1977),5
+641,Star Wars (1977),3
+825,Contact (1997),4
+789,Star Wars (1977),5
+627,Fargo (1996),5
+428,Liar Liar (1997),4
+831,Contact (1997),2
+279,Fargo (1996),4
+891,Star Wars (1977),4
+721,Return of the Jedi (1983),5
+804,Return of the Jedi (1983),5
+507,Star Wars (1977),5
+390,Contact (1997),5
+697,Star Wars (1977),5
+387,Return of the Jedi (1983),4
+830,Return of the Jedi (1983),5
+902,Contact (1997),3
+851,Contact (1997),4
+293,Fargo (1996),4
+903,Fargo (1996),5
+18,Home for the Holidays (1995),5
+907,Fargo (1996),5
+906,Fargo (1996),4
+789,Liar Liar (1997),3
+409,Fargo (1996),5
+275,Return of the Jedi (1983),4
+864,Liar Liar (1997),4
+863,Contact (1997),5
+847,Contact (1997),5
+742,Star Wars (1977),4
+395,Fargo (1996),4
+644,Return of the Jedi (1983),4
+569,Liar Liar (1997),2
+377,Contact (1997),4
+863,Liar Liar (1997),4
+789,Return of the Jedi (1983),4
+334,To Gillian on Her 37th Birthday (1996),3
+684,Fargo (1996),4
+650,Liar Liar (1997),3
+334,Mirror Has Two Faces, The (1996),3
+852,Return of the Jedi (1983),4
+277,Bed of Roses (1996),1
+887,Return of the Jedi (1983),5
+587,Liar Liar (1997),3
+905,Contact (1997),3
+738,Return of the Jedi (1983),4
+520,Liar Liar (1997),3
+537,Fargo (1996),4
+294,Contact (1997),3
+859,To Gillian on Her 37th Birthday (1996),5
+881,Star Wars (1977),3
+466,Star Wars (1977),5
+869,Return of the Jedi (1983),3
+681,Liar Liar (1997),5
+916,Fargo (1996),5
+891,Bed of Roses (1996),4
+882,Liar Liar (1997),4
+796,Return of the Jedi (1983),5
+606,Liar Liar (1997),2
+716,Star Wars (1977),5
+871,Star Wars (1977),5
+788,Contact (1997),4
+854,Mirror Has Two Faces, The (1996),4
+910,Fargo (1996),4
+870,Return of the Jedi (1983),4
+629,Liar Liar (1997),3
+314,To Gillian on Her 37th Birthday (1996),3
+222,Contact (1997),5
+258,Liar Liar (1997),4
+44,Star Wars (1977),5
+447,Liar Liar (1997),4
+467,Contact (1997),2
+831,Star Wars (1977),5
+832,Liar Liar (1997),4
+844,Contact (1997),4
+285,Contact (1997),2
+311,Little Women (1994),4
+658,Fargo (1996),4
+931,Star Wars (1977),3
+391,Star Wars (1977),4
+618,Little Women (1994),3
+781,Contact (1997),2
+801,Liar Liar (1997),5
+846,Star Wars (1977),5
+927,Liar Liar (1997),5
+595,Contact (1997),4
+652,Liar Liar (1997),2
+673,Contact (1997),2
+651,Liar Liar (1997),1
+771,Liar Liar (1997),4
+790,Return of the Jedi (1983),4
+198,Return of the Jedi (1983),4
+783,Contact (1997),4
+682,Contact (1997),3
+468,Star Wars (1977),5
+306,Contact (1997),2
+725,Return of the Jedi (1983),4
+707,Mirror Has Two Faces, The (1996),2
+553,Return of the Jedi (1983),4
+82,Star Wars (1977),5
+934,Star Wars (1977),5
+903,Return of the Jedi (1983),4
+38,Liar Liar (1997),5
+893,Liar Liar (1997),3
+730,Contact (1997),5
+374,Liar Liar (1997),2
+878,Return of the Jedi (1983),3
+461,Contact (1997),4
+853,Contact (1997),3
+815,Star Wars (1977),5
+773,Contact (1997),5
+935,Fargo (1996),3
+548,Return of the Jedi (1983),4
+256,Star Wars (1977),4
+706,Return of the Jedi (1983),4
+859,Liar Liar (1997),3
+753,Liar Liar (1997),5
+551,Liar Liar (1997),4
+128,Contact (1997),2
+566,Return of the Jedi (1983),2
+902,Star Wars (1977),5
+707,Liar Liar (1997),2
+890,Contact (1997),3
+815,Return of the Jedi (1983),5
+452,Fargo (1996),5
+298,Star Wars (1977),5
+450,Star Wars (1977),5
+327,Return of the Jedi (1983),4
+895,Return of the Jedi (1983),5
+665,Star Wars (1977),4
+917,Star Wars (1977),3
+869,Star Wars (1977),4
+733,Mirror Has Two Faces, The (1996),2
+846,Home for the Holidays (1995),3
+619,Return of the Jedi (1983),4
+661,Return of the Jedi (1983),5
+791,Return of the Jedi (1983),5
+764,Liar Liar (1997),3
+935,To Gillian on Her 37th Birthday (1996),4
+416,To Gillian on Her 37th Birthday (1996),3
+222,Fargo (1996),5
+887,Contact (1997),1
+537,Little Women (1994),4
+776,Star Wars (1977),5
+450,Return of the Jedi (1983),4
+919,Star Wars (1977),3
+190,Fargo (1996),4
+45,Bed of Roses (1996),3
+689,Star Wars (1977),5
+637,Return of the Jedi (1983),4
+838,Fargo (1996),4
+316,Home for the Holidays (1995),5
+873,Liar Liar (1997),4
+908,Return of the Jedi (1983),3
+574,Fargo (1996),5
+832,Contact (1997),3
+764,Mirror Has Two Faces, The (1996),3
+567,Star Wars (1977),1
+456,Contact (1997),4
+829,Fargo (1996),4
+356,Liar Liar (1997),1
+512,Star Wars (1977),5
+875,Return of the Jedi (1983),4
+860,Home for the Holidays (1995),2
+526,Liar Liar (1997),3
+756,Return of the Jedi (1983),4
+283,Fargo (1996),4
+921,Return of the Jedi (1983),5
+939,Contact (1997),4
+907,Return of the Jedi (1983),4
+64,Contact (1997),3
+796,Contact (1997),4
+474,Liar Liar (1997),3
+535,Fargo (1996),5
+940,Return of the Jedi (1983),3
+290,Return of the Jedi (1983),5
+878,Star Wars (1977),4
+834,Star Wars (1977),5
+867,Star Wars (1977),5
+243,Little Women (1994),4
+796,Star Wars (1977),5
+850,Return of the Jedi (1983),5
+350,Return of the Jedi (1983),4
+703,Return of the Jedi (1983),5
+90,Mirror Has Two Faces, The (1996),4
+431,Liar Liar (1997),5
+756,Contact (1997),3
+460,Fargo (1996),5
+9,Star Wars (1977),5
+748,Return of the Jedi (1983),4
+868,Star Wars (1977),5
+480,Star Wars (1977),4
+749,Fargo (1996),3
+344,Star Wars (1977),5
+525,Fargo (1996),4
+844,Return of the Jedi (1983),5
+329,Star Wars (1977),4
+551,Fargo (1996),4
+878,Fargo (1996),2
+134,Liar Liar (1997),4
+657,Liar Liar (1997),5
+292,Return of the Jedi (1983),4
+43,Fargo (1996),4
+881,Fargo (1996),4
+624,Fargo (1996),5
+488,Liar Liar (1997),4
+806,Star Wars (1977),5
+836,Contact (1997),4
+550,Return of the Jedi (1983),5
+227,Fargo (1996),5
+625,Fargo (1996),3
+490,Fargo (1996),3
+802,Contact (1997),5
+660,Liar Liar (1997),3
+671,Star Wars (1977),5
+649,Star Wars (1977),4
+854,To Gillian on Her 37th Birthday (1996),3
+249,Star Wars (1977),4
+552,Return of the Jedi (1983),3
+448,Contact (1997),4
+923,Return of the Jedi (1983),5
+540,Return of the Jedi (1983),4
+846,Liar Liar (1997),3
+867,Return of the Jedi (1983),5
+380,Star Wars (1977),4
+621,Star Wars (1977),5
+401,Bed of Roses (1996),4
+185,Star Wars (1977),4
+705,Little Women (1994),5
+864,Fargo (1996),5
+455,Star Wars (1977),5
+934,Fargo (1996),4
+533,To Gillian on Her 37th Birthday (1996),2
+190,Contact (1997),3
+850,Liar Liar (1997),5
+10,Little Women (1994),4
+788,Fargo (1996),5
+796,Fargo (1996),3
+618,Return of the Jedi (1983),5
+826,Return of the Jedi (1983),5
+796,Little Women (1994),4
+884,Contact (1997),5
+597,Return of the Jedi (1983),4
+854,Liar Liar (1997),2
+860,To Gillian on Her 37th Birthday (1996),2
+447,Bed of Roses (1996),3
+515,Liar Liar (1997),3
+606,Return of the Jedi (1983),5
+693,Contact (1997),4
+523,Contact (1997),5
+435,Return of the Jedi (1983),5
+455,Return of the Jedi (1983),4
+606,Star Wars (1977),5
+699,Mirror Has Two Faces, The (1996),2
+679,Liar Liar (1997),1
+900,Liar Liar (1997),4
+152,Liar Liar (1997),4
+103,Liar Liar (1997),4
+699,Star Wars (1977),3
+215,Return of the Jedi (1983),4
+671,Return of the Jedi (1983),5
+771,Return of the Jedi (1983),4
+127,Star Wars (1977),4
+259,Liar Liar (1997),3
+661,Contact (1997),4
+336,Liar Liar (1997),4
+526,Fargo (1996),5
+871,Contact (1997),5
+483,Star Wars (1977),5
+576,Liar Liar (1997),3
+839,Star Wars (1977),5
+544,Liar Liar (1997),2
+186,Liar Liar (1997),3
+552,Fargo (1996),4
+887,Little Women (1994),1
+943,Return of the Jedi (1983),4
+690,Liar Liar (1997),3
+18,Fargo (1996),5
+809,Contact (1997),3
+892,Fargo (1996),5
+297,Return of the Jedi (1983),4
+708,Bed of Roses (1996),4
+722,Fargo (1996),4
+374,Bed of Roses (1996),2
+825,Return of the Jedi (1983),4
+587,Contact (1997),4
+625,Liar Liar (1997),3
+936,Return of the Jedi (1983),4
+628,Contact (1997),5
+790,Star Wars (1977),4
+312,Star Wars (1977),5
+253,Little Women (1994),4
+649,Return of the Jedi (1983),4
+834,Liar Liar (1997),3
+356,Contact (1997),5
+121,Star Wars (1977),5
+501,Fargo (1996),4
+730,Fargo (1996),5
+645,Contact (1997),3
+864,Return of the Jedi (1983),5
+708,Contact (1997),5
+542,Return of the Jedi (1983),4
+916,Star Wars (1977),5
+494,Return of the Jedi (1983),4
+902,Liar Liar (1997),2
+835,Liar Liar (1997),3
+379,Return of the Jedi (1983),4
+679,Star Wars (1977),5
+425,Liar Liar (1997),2
+668,Star Wars (1977),5
+865,Liar Liar (1997),4
+880,Fargo (1996),5
+922,Star Wars (1977),5
+902,Return of the Jedi (1983),3
+941,Return of the Jedi (1983),5
+885,Bed of Roses (1996),3
+924,Contact (1997),3
+806,Return of the Jedi (1983),2
+501,Liar Liar (1997),3
+702,Contact (1997),5
+528,Contact (1997),4
+727,Bed of Roses (1996),2
+741,Little Women (1994),4
+892,Star Wars (1977),5
+242,Liar Liar (1997),4
+858,Fargo (1996),3
+601,Liar Liar (1997),1
+569,Fargo (1996),5
+877,Contact (1997),4
+800,Liar Liar (1997),3
+711,Return of the Jedi (1983),4
+615,Fargo (1996),3
+753,Return of the Jedi (1983),3
+310,Liar Liar (1997),1
+429,Fargo (1996),5
+426,Fargo (1996),4
+931,Contact (1997),3
+50,Fargo (1996),2
+797,Return of the Jedi (1983),5
+232,Liar Liar (1997),2
+729,Liar Liar (1997),2
+941,Contact (1997),4
+602,Liar Liar (1997),5
+415,Contact (1997),4
+232,Star Wars (1977),4
+698,Fargo (1996),2
+246,Star Wars (1977),5
+436,Star Wars (1977),4
+770,Contact (1997),5
+884,Fargo (1996),5
+541,Bed of Roses (1996),2
+546,Contact (1997),4
+222,Star Wars (1977),4
+798,Mirror Has Two Faces, The (1996),3
+794,Return of the Jedi (1983),4
+938,Return of the Jedi (1983),5
+663,Fargo (1996),4
+452,Star Wars (1977),5
+727,Contact (1997),2
+854,Star Wars (1977),4
+862,Fargo (1996),5
+497,Liar Liar (1997),4
+895,Star Wars (1977),5
+629,Fargo (1996),5
+735,Return of the Jedi (1983),4
+776,Return of the Jedi (1983),4
+548,Star Wars (1977),5
+897,Star Wars (1977),5
+816,Liar Liar (1997),5
+712,Home for the Holidays (1995),5
+57,Star Wars (1977),5
+869,Liar Liar (1997),3
+170,Liar Liar (1997),3
+852,Star Wars (1977),5
+857,Contact (1997),5
+387,Fargo (1996),5
+546,Star Wars (1977),5
+706,Contact (1997),4
+61,Liar Liar (1997),2
+5,Return of the Jedi (1983),5
+901,Return of the Jedi (1983),4
+2,Bed of Roses (1996),3
+709,Star Wars (1977),5
+144,Fargo (1996),5
+741,Return of the Jedi (1983),4
+698,Return of the Jedi (1983),3
+790,Home for the Holidays (1995),4
+568,Fargo (1996),4
+22,Star Wars (1977),5
+742,Fargo (1996),5
+931,Mirror Has Two Faces, The (1996),3
+757,Contact (1997),5
+316,Fargo (1996),4
+919,Fargo (1996),5
+765,Star Wars (1977),2
+719,Mirror Has Two Faces, The (1996),5
+936,Star Wars (1977),4
+749,Contact (1997),4
+805,Star Wars (1977),4
+766,Star Wars (1977),4
+620,Fargo (1996),1
+781,Return of the Jedi (1983),5
+770,Star Wars (1977),3
+580,Star Wars (1977),5
+475,Contact (1997),1
+437,Home for the Holidays (1995),5
+613,Star Wars (1977),5
+882,Star Wars (1977),5
+904,Bed of Roses (1996),5
+84,Fargo (1996),4
+853,Liar Liar (1997),2
+875,Star Wars (1977),5
+743,Liar Liar (1997),2
+730,Return of the Jedi (1983),2
+360,Contact (1997),4
+459,Star Wars (1977),4
+669,Return of the Jedi (1983),5
+42,Return of the Jedi (1983),5
+807,Return of the Jedi (1983),5
+291,Star Wars (1977),5
+806,Contact (1997),3
+555,Contact (1997),3
+535,Contact (1997),5
+597,Liar Liar (1997),4
+447,Home for the Holidays (1995),2
+498,Return of the Jedi (1983),2
+779,Contact (1997),5
+784,Contact (1997),5
+875,Contact (1997),4
+143,Contact (1997),3
+112,Contact (1997),3
+271,Fargo (1996),5
+854,Fargo (1996),5
+807,Little Women (1994),4
+724,Contact (1997),4
+723,Contact (1997),4
+712,Star Wars (1977),4
+733,Contact (1997),3
+106,Fargo (1996),3
+894,Contact (1997),4
+599,Bed of Roses (1996),3
+899,Star Wars (1977),5
+442,Return of the Jedi (1983),4
+787,Contact (1997),5
+655,Mirror Has Two Faces, The (1996),2
+277,Fargo (1996),4
+823,Fargo (1996),5
+562,Star Wars (1977),5
+45,Return of the Jedi (1983),4
+555,Star Wars (1977),5
+185,Contact (1997),4
+455,Home for the Holidays (1995),3
+68,Return of the Jedi (1983),5
+766,Return of the Jedi (1983),4
+650,Fargo (1996),4
+504,Return of the Jedi (1983),3
+15,Contact (1997),3
+889,Star Wars (1977),4
+425,Return of the Jedi (1983),4
+595,Star Wars (1977),5
+773,Return of the Jedi (1983),5
+727,Fargo (1996),2
+896,Star Wars (1977),5
+837,Liar Liar (1997),4
+481,Return of the Jedi (1983),5
+763,Fargo (1996),5
+288,Contact (1997),4
+354,Return of the Jedi (1983),4
+616,Contact (1997),4
+504,To Gillian on Her 37th Birthday (1996),4
+759,Mirror Has Two Faces, The (1996),5
+620,Return of the Jedi (1983),4
+151,Contact (1997),5
+826,Contact (1997),4
+491,Liar Liar (1997),2
+586,Star Wars (1977),4
+503,Fargo (1996),5
+684,Star Wars (1977),4
+461,Liar Liar (1997),3
+837,Contact (1997),4
+436,Bed of Roses (1996),2
+868,Return of the Jedi (1983),5
+833,Fargo (1996),4
+887,Liar Liar (1997),5
+398,Fargo (1996),3
+630,Return of the Jedi (1983),3
+297,Liar Liar (1997),3
+790,Liar Liar (1997),2
+880,Contact (1997),4
+472,Liar Liar (1997),4
+780,Liar Liar (1997),3
+628,Liar Liar (1997),4
+178,Fargo (1996),4
+763,Star Wars (1977),4
+684,Home for the Holidays (1995),2
+601,Star Wars (1977),5
+271,Return of the Jedi (1983),5
+450,Mirror Has Two Faces, The (1996),4
+236,Liar Liar (1997),2
+798,Contact (1997),4
+848,Return of the Jedi (1983),5
+786,Return of the Jedi (1983),4
+942,Star Wars (1977),5
+741,Star Wars (1977),5
+817,Contact (1997),3
+447,Return of the Jedi (1983),5
+756,Star Wars (1977),4
+839,Contact (1997),4
+659,Liar Liar (1997),4
+313,Return of the Jedi (1983),4
+132,Fargo (1996),4
+676,Liar Liar (1997),4
+917,Bed of Roses (1996),3
+890,Star Wars (1977),5
+633,Star Wars (1977),4
+847,Mirror Has Two Faces, The (1996),4
+615,Little Women (1994),3
+406,Fargo (1996),4
+678,Fargo (1996),5
+687,Liar Liar (1997),3
+682,Home for the Holidays (1995),2
+843,Contact (1997),4
+840,Star Wars (1977),4
+872,Bed of Roses (1996),3
+359,Star Wars (1977),5
+829,Liar Liar (1997),2
+677,Liar Liar (1997),5
+722,Liar Liar (1997),2
+735,Star Wars (1977),5
+860,Mirror Has Two Faces, The (1996),3
+388,Liar Liar (1997),4
+793,Fargo (1996),4
+459,Liar Liar (1997),5
+496,Little Women (1994),3
+374,Mirror Has Two Faces, The (1996),2
+736,Liar Liar (1997),3
+716,Liar Liar (1997),4
+447,Star Wars (1977),5
+843,Star Wars (1977),3
+850,Star Wars (1977),5
+730,Liar Liar (1997),4
+91,Liar Liar (1997),3
+893,Contact (1997),3
+840,Fargo (1996),5
+939,Mirror Has Two Faces, The (1996),5
+301,Contact (1997),4
+188,Star Wars (1977),4
+888,Fargo (1996),4
+505,Return of the Jedi (1983),3
+838,Contact (1997),5
+23,Return of the Jedi (1983),4
+146,Liar Liar (1997),1
+883,Fargo (1996),4
+755,Contact (1997),5
+827,Liar Liar (1997),4
+745,Star Wars (1977),2
+764,Star Wars (1977),3
+662,Fargo (1996),5
+517,Liar Liar (1997),1
+714,Contact (1997),4
+329,Liar Liar (1997),2
+144,Liar Liar (1997),4
+714,Fargo (1996),1
+738,Star Wars (1977),5
+815,Contact (1997),4
+646,Liar Liar (1997),2
+437,Fargo (1996),4
+823,Liar Liar (1997),3
+205,Liar Liar (1997),3
+742,Liar Liar (1997),3
+738,Contact (1997),4
+634,Liar Liar (1997),4
+530,Mirror Has Two Faces, The (1996),5
+846,Little Women (1994),3
+680,Star Wars (1977),5
+916,Return of the Jedi (1983),4
+99,Liar Liar (1997),4
+937,Contact (1997),4
+922,Liar Liar (1997),4
+553,Star Wars (1977),4
+795,Home for the Holidays (1995),3
+457,Liar Liar (1997),2
+839,Fargo (1996),3
+694,Fargo (1996),4
+758,Return of the Jedi (1983),4
+416,Bed of Roses (1996),3
+770,Liar Liar (1997),3
+679,Fargo (1996),3
+547,Liar Liar (1997),1
+940,Liar Liar (1997),4
+168,Return of the Jedi (1983),4
+603,Star Wars (1977),5
+923,Fargo (1996),5
+554,Star Wars (1977),4
+870,Contact (1997),4
+870,Star Wars (1977),3
+907,Liar Liar (1997),4
+384,Contact (1997),4
+899,Contact (1997),5
+905,Liar Liar (1997),3
+905,Fargo (1996),4
+467,Return of the Jedi (1983),3
+897,Little Women (1994),4
+712,Liar Liar (1997),4
+936,Contact (1997),3
+891,Fargo (1996),5
+879,Liar Liar (1997),3
+804,Star Wars (1977),4
+843,Return of the Jedi (1983),3
+608,Liar Liar (1997),3
+601,Fargo (1996),4
+462,Return of the Jedi (1983),4
+926,Contact (1997),4
+680,Liar Liar (1997),4
+689,Return of the Jedi (1983),5
+423,Fargo (1996),5
+328,Star Wars (1977),4
+773,Star Wars (1977),5
+297,Fargo (1996),5
+942,Contact (1997),4
+265,Liar Liar (1997),4
+917,Fargo (1996),4
+558,Fargo (1996),5
+343,Contact (1997),5
+197,Star Wars (1977),5
+896,Return of the Jedi (1983),5
+632,Fargo (1996),3
+904,Return of the Jedi (1983),3
+856,Liar Liar (1997),4
+655,Little Women (1994),2
+830,Liar Liar (1997),3
+837,Bed of Roses (1996),3
+764,Bed of Roses (1996),4
+18,Star Wars (1977),4
+32,Star Wars (1977),4
+566,Star Wars (1977),2
+450,Little Women (1994),4
+653,Fargo (1996),4
+358,Contact (1997),4
+844,Liar Liar (1997),2
+440,Contact (1997),4
+922,Return of the Jedi (1983),5
+645,Star Wars (1977),4
+498,Fargo (1996),3
+879,Return of the Jedi (1983),4
+933,Return of the Jedi (1983),2
+825,Fargo (1996),4
+552,Contact (1997),4
+833,Return of the Jedi (1983),2
+20,Star Wars (1977),3
+743,Contact (1997),5
+782,Return of the Jedi (1983),3
+577,Star Wars (1977),4
+781,Liar Liar (1997),1
+526,Return of the Jedi (1983),4
+405,Return of the Jedi (1983),5
+823,Return of the Jedi (1983),4
+643,Home for the Holidays (1995),3
+572,Fargo (1996),3
+854,Contact (1997),4
+514,Fargo (1996),4
+486,Star Wars (1977),5
+666,Liar Liar (1997),3
+173,Contact (1997),4
+886,Fargo (1996),4
+486,Fargo (1996),5
+582,Fargo (1996),5
+847,Return of the Jedi (1983),4
+907,Little Women (1994),5
+823,Star Wars (1977),5
+710,Return of the Jedi (1983),3
+318,Liar Liar (1997),4
+887,Fargo (1996),2
+759,Star Wars (1977),4
+336,Home for the Holidays (1995),2
+865,Fargo (1996),4
+897,Liar Liar (1997),3
+774,Fargo (1996),1
+579,Star Wars (1977),5
+929,Fargo (1996),4
+648,Liar Liar (1997),3
+879,Star Wars (1977),4
+831,Liar Liar (1997),4
+663,Liar Liar (1997),3
+342,Home for the Holidays (1995),2
+661,Liar Liar (1997),4
+130,Contact (1997),4
+7,Star Wars (1977),5
+176,Return of the Jedi (1983),3
+234,Contact (1997),2
+631,Liar Liar (1997),3
+940,Star Wars (1977),4
+869,Fargo (1996),5
+385,Fargo (1996),4
+789,Fargo (1996),5
+351,Contact (1997),5
+647,Liar Liar (1997),3
+793,Return of the Jedi (1983),4
+599,To Gillian on Her 37th Birthday (1996),5
+793,Star Wars (1977),5
+938,Star Wars (1977),5
+660,Return of the Jedi (1983),4
+223,Bed of Roses (1996),4
+123,Liar Liar (1997),1
+805,Fargo (1996),5
+882,Return of the Jedi (1983),5
+344,Fargo (1996),5
+550,Contact (1997),5
+787,Liar Liar (1997),3
+256,Fargo (1996),4
+95,Liar Liar (1997),2
+932,Fargo (1996),5
+247,Fargo (1996),3
+625,Star Wars (1977),5
+910,Star Wars (1977),5
+885,Fargo (1996),3
+770,Fargo (1996),5
+900,Fargo (1996),4
+897,Return of the Jedi (1983),3
+796,Liar Liar (1997),3
+32,Return of the Jedi (1983),4
+513,Contact (1997),4
+607,Fargo (1996),4
+894,Star Wars (1977),4
+620,Star Wars (1977),4
+595,Fargo (1996),4
+737,Contact (1997),5
+486,Liar Liar (1997),2
+901,Star Wars (1977),4
+798,Star Wars (1977),5
+583,Fargo (1996),5
+870,Little Women (1994),3
+588,Home for the Holidays (1995),5
+612,Fargo (1996),4
+332,Star Wars (1977),5
+774,Return of the Jedi (1983),3
+732,Liar Liar (1997),3
+726,Liar Liar (1997),5
+263,Return of the Jedi (1983),4
+724,Liar Liar (1997),4
+344,Contact (1997),3
+394,Liar Liar (1997),4
+943,Fargo (1996),5
+860,Fargo (1996),4
+632,Contact (1997),4
+781,Star Wars (1977),5
+874,Fargo (1996),4
+247,Return of the Jedi (1983),4
+441,Fargo (1996),3
+642,Mirror Has Two Faces, The (1996),4
+328,Contact (1997),5
+141,Liar Liar (1997),4
+817,Liar Liar (1997),4
+312,Return of the Jedi (1983),4
+623,Contact (1997),4
+908,Star Wars (1977),4
+848,Star Wars (1977),5
+19,Liar Liar (1997),3
+885,Star Wars (1977),3
+472,Fargo (1996),5
+482,Liar Liar (1997),4
+424,Contact (1997),2
+247,Contact (1997),5
+870,Fargo (1996),4
+871,Return of the Jedi (1983),3
+840,Return of the Jedi (1983),3
+425,Contact (1997),2
+158,Liar Liar (1997),1
+686,Star Wars (1977),4
+805,Contact (1997),3
+795,Star Wars (1977),3
+266,Fargo (1996),5
+500,To Gillian on Her 37th Birthday (1996),3
+509,Return of the Jedi (1983),4
+492,Little Women (1994),3
+807,Star Wars (1977),5
+374,Return of the Jedi (1983),3
+183,Star Wars (1977),2
+482,Contact (1997),2
+889,Liar Liar (1997),3
+650,Contact (1997),3
+425,Star Wars (1977),5
+499,Contact (1997),2
+940,Fargo (1996),3
+786,Star Wars (1977),4
+927,Bed of Roses (1996),1
+937,Star Wars (1977),5
+887,Star Wars (1977),5
+829,Contact (1997),3
+704,Fargo (1996),4
+63,Liar Liar (1997),2
+571,Return of the Jedi (1983),4
+710,Fargo (1996),4
+913,Fargo (1996),3
+234,Little Women (1994),3
+783,Liar Liar (1997),3
+666,Star Wars (1977),3
+666,Fargo (1996),4
+719,Liar Liar (1997),2
+872,Liar Liar (1997),3
+846,Return of the Jedi (1983),5
+267,Return of the Jedi (1983),5
+588,Star Wars (1977),5
+413,Fargo (1996),4
+115,Fargo (1996),5
+889,Contact (1997),4
+895,Liar Liar (1997),4
+818,Contact (1997),4
+180,Return of the Jedi (1983),2
+44,Return of the Jedi (1983),4
+940,Contact (1997),5
+596,Star Wars (1977),5
+790,Contact (1997),3
+922,Contact (1997),4
+864,Contact (1997),5
+672,Return of the Jedi (1983),3
+907,Star Wars (1977),4
+406,Liar Liar (1997),3
+919,Liar Liar (1997),3
+899,Return of the Jedi (1983),3
+582,Liar Liar (1997),1
+563,Mirror Has Two Faces, The (1996),4
+933,Star Wars (1977),4
+629,Little Women (1994),3
+455,Contact (1997),5
+588,Fargo (1996),1
+882,Contact (1997),3
+24,Little Women (1994),3
+288,Fargo (1996),5
+834,Return of the Jedi (1983),5
+464,Star Wars (1977),4
+95,Star Wars (1977),5
+648,Mirror Has Two Faces, The (1996),3
+841,Contact (1997),5
+779,Liar Liar (1997),5
+798,Return of the Jedi (1983),5
+41,Star Wars (1977),5
+545,Star Wars (1977),5
+577,Liar Liar (1997),4
+109,Star Wars (1977),5
+504,Fargo (1996),5
+738,Fargo (1996),2
+162,Liar Liar (1997),3
+715,Star Wars (1977),5
+772,Liar Liar (1997),4
+938,Contact (1997),5
+156,Fargo (1996),4
+402,Fargo (1996),5
+910,Return of the Jedi (1983),1
+913,Star Wars (1977),4
+842,Contact (1997),3
+403,Star Wars (1977),5
+525,Return of the Jedi (1983),4
+723,Star Wars (1977),4
+645,Return of the Jedi (1983),4
+620,Little Women (1994),5
+655,Home for the Holidays (1995),2
+599,Mirror Has Two Faces, The (1996),5
+931,Return of the Jedi (1983),4
+399,Fargo (1996),3
+538,Star Wars (1977),5
+705,Return of the Jedi (1983),5
+136,Contact (1997),5
+451,Contact (1997),4
+83,Star Wars (1977),3
+307,Star Wars (1977),5
+472,Star Wars (1977),5
+542,Star Wars (1977),4
+377,Liar Liar (1997),5
+118,Fargo (1996),5
+785,Liar Liar (1997),4
+507,Return of the Jedi (1983),5
+923,Liar Liar (1997),4
+937,Fargo (1996),3
+924,Star Wars (1977),5
+868,Fargo (1996),5
+908,Fargo (1996),4
+929,Star Wars (1977),4
+891,Return of the Jedi (1983),3
+930,Star Wars (1977),2
+119,Contact (1997),2
+800,Return of the Jedi (1983),4
+324,To Gillian on Her 37th Birthday (1996),5
+517,Return of the Jedi (1983),4
+560,Star Wars (1977),5
+936,Liar Liar (1997),3
+535,Star Wars (1977),5
+768,Fargo (1996),5
+894,Bed of Roses (1996),4
+509,Liar Liar (1997),2
+923,Star Wars (1977),5
+901,Liar Liar (1997),3
+539,Contact (1997),4
+584,Return of the Jedi (1983),4
+800,Star Wars (1977),4
+920,Contact (1997),4
+323,Return of the Jedi (1983),5
+63,Return of the Jedi (1983),3
+699,Liar Liar (1997),3
+889,Fargo (1996),4
+772,Contact (1997),5
+402,Return of the Jedi (1983),4
+549,Contact (1997),5
+805,Liar Liar (1997),1
+711,Contact (1997),4
+336,Star Wars (1977),4
+924,Fargo (1996),4
+907,Contact (1997),4
+747,Contact (1997),2
+759,Liar Liar (1997),5
+536,Return of the Jedi (1983),5
+508,Star Wars (1977),5
+847,Home for the Holidays (1995),3
+875,Liar Liar (1997),2
+805,Home for the Holidays (1995),4
+693,Star Wars (1977),3
+926,Liar Liar (1997),3
+363,Fargo (1996),5
+664,Fargo (1996),5
+499,Fargo (1996),4
+386,Return of the Jedi (1983),3
+804,Fargo (1996),5
+886,Return of the Jedi (1983),5
+526,Contact (1997),3
+594,Fargo (1996),4
+676,Fargo (1996),5
+747,Return of the Jedi (1983),5
+563,Liar Liar (1997),3
+530,Return of the Jedi (1983),3
+483,Contact (1997),4
+819,Contact (1997),2
+839,Return of the Jedi (1983),3
+548,Liar Liar (1997),3
+708,Liar Liar (1997),3
+507,Contact (1997),4
+865,Contact (1997),4
+894,Fargo (1996),4
+661,Star Wars (1977),5
+71,Fargo (1996),4
+395,Contact (1997),4
+759,Return of the Jedi (1983),5
+361,Star Wars (1977),5
+862,Contact (1997),5
+931,Fargo (1996),4
+885,Return of the Jedi (1983),3
+933,Fargo (1996),5
+576,Fargo (1996),4
+733,Fargo (1996),5
+921,Star Wars (1977),4
+743,Return of the Jedi (1983),3
+805,Return of the Jedi (1983),3
+120,Star Wars (1977),4
+733,To Gillian on Her 37th Birthday (1996),2
+717,Contact (1997),5
+740,Contact (1997),3
+896,Contact (1997),5
+832,Star Wars (1977),3
+892,Return of the Jedi (1983),4
+943,Star Wars (1977),4
+936,Fargo (1996),4
+930,Fargo (1996),3
+852,Fargo (1996),4
+782,Star Wars (1977),3
+750,Contact (1997),3
+785,Star Wars (1977),5
+294,Liar Liar (1997),4
+896,Fargo (1996),3
+893,Mirror Has Two Faces, The (1996),3
+893,Star Wars (1977),5
+672,Mirror Has Two Faces, The (1996),2
+641,Contact (1997),3
+674,Return of the Jedi (1983),4
+579,Liar Liar (1997),4
+683,Contact (1997),3
+913,Contact (1997),4
+797,Liar Liar (1997),3
+935,Return of the Jedi (1983),4
+938,Fargo (1996),5
+766,Liar Liar (1997),2
+747,Fargo (1996),5
+85,Return of the Jedi (1983),4
+938,Mirror Has Two Faces, The (1996),4
+907,Mirror Has Two Faces, The (1996),5
+837,Return of the Jedi (1983),3
+798,Little Women (1994),3
+919,Return of the Jedi (1983),4
+584,Star Wars (1977),4
+715,Fargo (1996),2
+521,Return of the Jedi (1983),4
+844,Fargo (1996),4
+642,Return of the Jedi (1983),5
+749,Return of the Jedi (1983),5
+924,Return of the Jedi (1983),3
+639,Fargo (1996),1
+157,Contact (1997),3
+847,Star Wars (1977),4
+788,Liar Liar (1997),3
+786,Fargo (1996),4
+345,Return of the Jedi (1983),4
+791,Liar Liar (1997),3
+416,Fargo (1996),5
+216,Return of the Jedi (1983),3
+710,Liar Liar (1997),3
+838,Star Wars (1977),5
+507,Liar Liar (1997),5
+703,Fargo (1996),4
+909,Liar Liar (1997),3
+183,Contact (1997),3
+774,Star Wars (1977),4
+771,Star Wars (1977),4
+497,Star Wars (1977),5
+807,Contact (1997),3
+820,Contact (1997),3
+878,Little Women (1994),1
+779,Star Wars (1977),5
+878,Contact (1997),3
+564,Contact (1997),4
+760,Contact (1997),5
+301,Fargo (1996),5
+839,To Gillian on Her 37th Birthday (1996),2
+913,Return of the Jedi (1983),3
+683,Liar Liar (1997),3
+898,Contact (1997),3
+934,Return of the Jedi (1983),4
+921,Liar Liar (1997),4
+622,Return of the Jedi (1983),5
+262,Little Women (1994),5
+230,Little Women (1994),4
+710,Contact (1997),2
+941,Liar Liar (1997),4
+141,Return of the Jedi (1983),4
+915,Contact (1997),2
+919,Contact (1997),4
+725,Liar Liar (1997),3
+648,Star Wars (1977),5
+881,Return of the Jedi (1983),4
+593,Return of the Jedi (1983),4
+555,Fargo (1996),5
+708,Return of the Jedi (1983),5
+714,Liar Liar (1997),4
+178,Mirror Has Two Faces, The (1996),3
+551,Contact (1997),4
+458,Fargo (1996),4
+821,Liar Liar (1997),4
+478,Fargo (1996),5
+251,Liar Liar (1997),3
+790,Fargo (1996),2
+922,Little Women (1994),3
+122,Little Women (1994),5
+588,Liar Liar (1997),4
+880,Liar Liar (1997),4
+376,Fargo (1996),4
+599,Liar Liar (1997),4
+804,Liar Liar (1997),5
+737,Fargo (1996),5
+734,Star Wars (1977),4
+749,Star Wars (1977),5
+657,Contact (1997),2
+806,Fargo (1996),4
+541,Contact (1997),4
+867,Liar Liar (1997),3
+886,Star Wars (1977),5
+889,Return of the Jedi (1983),4
+907,Bed of Roses (1996),5
+554,Return of the Jedi (1983),4
+577,Return of the Jedi (1983),5
+794,Fargo (1996),5
+734,Liar Liar (1997),1
+689,Contact (1997),5
+739,Star Wars (1977),4
+937,Liar Liar (1997),1
+903,Star Wars (1977),5
+895,Fargo (1996),4
+363,Return of the Jedi (1983),5
+780,Star Wars (1977),5
